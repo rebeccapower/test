@@ -1,3 +1,5 @@
+![Coastermark (1)](https://user-images.githubusercontent.com/467898/157457422-77c88b07-338c-4451-913c-179e133fa01d.png)
+
 ## IslandoraCon2022
 
 You can use the [editor on GitHub](https://github.com/islandora-community/IslandoraCon2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
