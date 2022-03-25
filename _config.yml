@@ -10,6 +10,9 @@ defaults:
     values:
       layout: single
 
+include:
+  - "_pages"
+
 footer:
   links:
     - label: "Twitter"
