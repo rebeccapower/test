@@ -11,7 +11,7 @@ defaults:
       layout: single
 
 include:
-  - "_pages"
+  - _pages
 
 footer:
   links:
