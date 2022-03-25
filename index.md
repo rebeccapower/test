@@ -1,5 +1,3 @@
-<body class="layout--splash">
-
 ![Coastermark (1)](https://user-images.githubusercontent.com/467898/157457422-77c88b07-338c-4451-913c-179e133fa01d.png)
 
 ## IslandoraCon2022
@@ -17,5 +15,3 @@ The event is tentatively scheduled for **August 2 - 5th, 2022**, and we are curr
 ## Schedule (tentative)
 
 To see the current schedule plans, please visit the in-progress document [linked here](https://docs.google.com/document/d/18iu970Tpyo3Ub5F3yKbliqwRrBY3Qo7YNXZV5w1w_BE/edit?usp=sharing).
-
-</body>
