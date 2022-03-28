@@ -1,3 +1,7 @@
+---
+title: "Home"
+---
+
 ![Islandora Banner](https://user-images.githubusercontent.com/467898/157457422-77c88b07-338c-4451-913c-179e133fa01d.png)
 
 ## IslandoraCon 2022
