@@ -1,6 +1,9 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+title: IslandoraCon 2022
+description: The Islandora Conference will be taking place Aug. 2 - 5, 2022.
 
-minimal_mistakes_skin: "mint"
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air"
 
 defaults:
   # _pages
@@ -9,6 +12,9 @@ defaults:
       type: pages
     values:
       layout: single
+      
+# Outputting
+permalink: /:categories/:title/
 
 include:
   - _pages
