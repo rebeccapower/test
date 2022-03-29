@@ -1,3 +1,8 @@
+---
+permalink: /schedule/
+title: "Schedule"
+---
+
 ## August 2st - 5th - Hybrid IslandoraCon Sample Schedule
 
 IslandoraCon 2022: “Destination Mothership”
