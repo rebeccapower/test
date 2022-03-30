@@ -1,3 +1,8 @@
+---
+layout: splash
+header:
+  overlay_image: https://assets.website-files.com/618eb1b213a102afa83e260d/6217e5fbbe1e4799b545b4a0_Community%20Page%20-%20Hero.svg
+---
 
 ![Islandora Banner](https://user-images.githubusercontent.com/467898/157457422-77c88b07-338c-4451-913c-179e133fa01d.png)
 
@@ -16,6 +21,4 @@ The event is tentatively scheduled for **August 2 - 5th, 2022**, and we are curr
 **Have you been to a hybrid event you thought went really well?** 
 Is there an event you want to see at IslandoraCon 2022? If you have other feedback please feel free to send it to [Donald](mailto:dmoses@upei.ca), or to [community@islandora.ca](mailto:community@islandora.ca). In the meantime, keep an eye out for additional information (including a call for proposals) as our plans evolve.
 
-## Schedule (tentative)
-
-To see the current schedule plans, please visit the in-progress document [linked here](https://docs.google.com/document/d/18iu970Tpyo3Ub5F3yKbliqwRrBY3Qo7YNXZV5w1w_BE/edit?usp=sharing).
+![Illustration of volunteers standing together](https://assets.website-files.com/618eb1b213a102afa83e260d/6217e8e6b09009af933fe25a_Volunteer.svg)
