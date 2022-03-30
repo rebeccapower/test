@@ -1,6 +1,9 @@
 ---
 permalink: /schedule/
 title: "Schedule"
+layout: splash
+header:
+  overlay_image: https://assets.website-files.com/618eb1b213a102afa83e260d/6217e477a903a38d07b25c5a_Doc%20Page.svg
 ---
 
 ## August 2st - 5th - Hybrid IslandoraCon Sample Schedule
