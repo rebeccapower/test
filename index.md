@@ -4,8 +4,6 @@ header:
   overlay_image: https://assets.website-files.com/618eb1b213a102afa83e260d/6217e5fbbe1e4799b545b4a0_Community%20Page%20-%20Hero.svg
 ---
 
-![Islandora Banner](https://user-images.githubusercontent.com/467898/157457422-77c88b07-338c-4451-913c-179e133fa01d.png)
-
 ## IslandoraCon 2022
 
 As Covid-related restrictions begin to ease, UPEI has generously renewed their offer to host a hybrid [Islandora](https://www.islandora.ca/) conference, based in Charlottetown, PEI. 
