@@ -1,7 +1,7 @@
 ---
-layout: splash
+layout: home
 header:
-  overlay_image: https://assets.website-files.com/618eb1b213a102afa83e260d/6217e5fbbe1e4799b545b4a0_Community%20Page%20-%20Hero.svg
+  image: https://assets.website-files.com/618eb1b213a102afa83e260d/6217e5fbbe1e4799b545b4a0_Community%20Page%20-%20Hero.svg
 ---
 
 ## IslandoraCon 2022
