@@ -41,7 +41,7 @@ You can book online by **phone, email, or by** [**using the form linked here**](
   * Include your name, address, telephone number, dates you wish to stay, and type of room.
 
 &#8594; **If booking over the phone**: 
-  * The contact number is 902-566-0442 or 902-566-0952.
+  * The contact number is  902-566-0952.
 
 
 ## Map
