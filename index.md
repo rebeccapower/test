@@ -1,7 +1,7 @@
 ---
-layout: splash
+layout: home
 header:
-  overlay-image: "/assets/images/IslandoraCon-Home.png"
+  image: "/assets/images/IslandoraCon-Home.png"
 ---
 
 As Covid-related restrictions begin to ease, the University of Prince Edward Island has generously renewed their offer to host a hybrid [Islandora](https://www.islandora.ca/) conference, based in Charlottetown, PEI. 
