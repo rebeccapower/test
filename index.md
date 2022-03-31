@@ -4,8 +4,6 @@ header:
   image: "/assets/images/IslandoraCon-Home.png"
 ---
 
-## IslandoraCon 2022
-
 As Covid-related restrictions begin to ease, UPEI has generously renewed their offer to host a hybrid [Islandora](https://www.islandora.ca/) conference, based in Charlottetown, PEI. 
 
 The event is tentatively scheduled for **August 2 - 5th, 2022**, and we are currently hoping for **both online and in-person** workshops/presentations, with flexible options for registration.
