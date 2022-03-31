@@ -18,6 +18,12 @@ For more information on islandora, [visit our website](https://www.islandora.ca/
 
 Beautiful Prince Edward Island offers a wide variety of accomodation options. Information on places to stay, such as cottages, hotels, inns, and home rentals, are available on the Tourism PEI website. [Click here to view these listings](https://www.tourismpei.com/where-to-stay).
 
+<div>
+  <center>
+    <img src="https://assets.website-files.com/618eb1b213a102afa83e260d/6217e86f6e350cbcd7b56d5f_History%20Page.svg" alt="Illustration of UPEI building" width="50%"/>
+  </center>
+</div>
+
 ### On campus
 
 On-campus accomdation at UPEI is available to conference attendees and participants, within the Andrew Hall building.
@@ -32,4 +38,8 @@ You can book online by phone, email, or by [using the form linked here](https://
 
 ## Map
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L9NxsGf_lu3S4Fdl5ONZWe9A9b5NUH8d&ehbc=2E312F" width="640" height="480"></iframe>
+<div>
+  <center>
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L9NxsGf_lu3S4Fdl5ONZWe9A9b5NUH8d&ehbc=2E312F" width="50%"></iframe>
+  </center>
+</div>
