@@ -6,7 +6,7 @@ header:
   overlay_image: "../assets/images/Islandora-Community.png"
 ---
 
-## August 2st - 5th - IslandoraCon Preliminary Schedule
+## August 2 - 5 - IslandoraCon Preliminary Schedule
 
 IslandoraCon 2022: “Destination Mothership”
 
