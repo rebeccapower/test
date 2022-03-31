@@ -48,6 +48,6 @@ You can book online by **phone, email, or by** [**using the form linked here**](
 
 <div>
   <center>
-    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L9NxsGf_lu3S4Fdl5ONZWe9A9b5NUH8d&ehbc=2E312F" width="50%" height="50%"></iframe>
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L9NxsGf_lu3S4Fdl5ONZWe9A9b5NUH8d&ehbc=2E312F" width="640" height="480"></iframe>
   </center>
 </div>
