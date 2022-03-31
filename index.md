@@ -18,6 +18,3 @@ The event is tentatively scheduled for **August 2 - 5th, 2022**, and we are curr
 
 **Have you been to a hybrid event you thought went really well?** 
 Is there an event you want to see at IslandoraCon 2022? If you have other feedback please feel free to send it to [Donald](mailto:dmoses@upei.ca), or to [community@islandora.ca](mailto:community@islandora.ca). In the meantime, keep an eye out for additional information (including a call for proposals) as our plans evolve.
-
-
-<img src="https://assets.website-files.com/618eb1b213a102afa83e260d/6217e045ee23bb69a002e474_Contribute.svg" alt="Illustration of islandora contributors with different file assets" width="300" class="center">
