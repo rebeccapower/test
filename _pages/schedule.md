@@ -4,6 +4,7 @@ title: "Schedule"
 layout: splash
 header:
   overlay_image: "../assets/images/Islandora-Community.png"
+  overlay_filter: 0.25
 ---
 
 ## August 2 - 5 - IslandoraCon Preliminary Schedule
