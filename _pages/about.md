@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 layout: splash
 header:
-  overlay_image: "../assets/images/Road-Map.png"
+  overlay_image: "../assets/images/IslandoraCon-Home.png"
+  overlay_filter: 0.25
 ---
 
 IslandoraCon is scheduled for **August 2 - 5th, 2022**, and we are currently planning for **both online and in-person** workshops/presentations, with flexible options for registration.

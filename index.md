@@ -2,10 +2,10 @@
 layout: splash
 title: "Welcome!"
 header:
-  overlay_image: "/assets/images/IslandoraCon-Home.png"
-  overlay_filter: 0.5
+  overlay_image: "/assets/images/Prince_Edward_Island_National_Park.jpg"
+  overlay_filter: 0.25
   actions:
-    - label: "See preliminary schedule for IslandoraCon"
+    - label: "See the preliminary schedule for IslandoraCon"
       url: "https://2022.islandora.ca/schedule/"
 ---
 
