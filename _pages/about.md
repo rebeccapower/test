@@ -34,11 +34,11 @@ You can book online by **phone, email, or by** [**using the form linked here**](
   1. A new field will appear. Here, indicate there that you are attending IslandoraCon. 
   2. Under Type of room requested, select from the Andrew Hall accommodation options.
 
-&#8594; **If booking using email** [**conference@upei.ca**](mailto:conference@upei.ca):
+&#8594; **If booking using email the** [**conference@upei.ca**](mailto:conference@upei.ca):
   * Indicate that you are attending IslandoraCon.
   * Include your name, address, telephone number, dates you wish to stay, and type of room.
 
-&#8594; **If booking over the** [**phone**](tel:9025660952): 
+&#8594; **If booking over the** [**phone**](tel:9025660952) (902-566-0952): 
   * Indicate that you are attending IslandoraCon.
   * Include your name, address, telephone number, dates you wish to stay, and type of room.
 
