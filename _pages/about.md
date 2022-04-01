@@ -28,19 +28,19 @@ Andrew Hall is the university's newest residence. Rooms are in single, double, a
 
 You can book online by **phone, email, or by** [**using the form linked here**](https://www.upei.ca/conference/summer-visitors). 
 
-&#8594; **If booking using the online form**, please: 
+&#8594; **If booking using the** [**online form**](https://www.upei.ca/conference/summer-visitors), please: 
 
-  1. Indicate yourself as a conference delegate.
+  1. Indicate that you are requesting a reservation as a Conference Delegate.
   1. A new field will appear. Here, indicate there that you are attending IslandoraCon. 
-  2. Under type of room, select from the Andrew Hall accommodations.
+  2. Under Type of room requested, select from the Andrew Hall accommodation options.
 
-&#8594; **If booking using email**:
-  * The contact email address is conference@upei.ca.
+&#8594; **If booking using email** [**conference@upei.ca**](mailto:conference@upei.ca):
   * Indicate that you are attending IslandoraCon.
   * Include your name, address, telephone number, dates you wish to stay, and type of room.
 
-&#8594; **If booking over the phone**: 
-  * The contact number is  902-566-0952.
+&#8594; **If booking over the** [**phone**](tel:9025660952): 
+  * Indicate that you are attending IslandoraCon.
+  * Include your name, address, telephone number, dates you wish to stay, and type of room.
 
 
 ## Map
