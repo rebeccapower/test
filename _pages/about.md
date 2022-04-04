@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_image: "../assets/images/Charlottetown_Cathrae.jpg"
   overlay_filter: 0.25
-caption: "Photo credit: Martin Cathrae from Charlottetown, PE, Canada, CC BY-SA 2.0, via Wikimedia Commons"
+  caption: "Photo: Martin Cathrae from Charlottetown, PE, Canada, CC BY-SA 2.0, via Wikimedia Commons"
 ---
 
 IslandoraCon is scheduled for **August 2 - 5th, 2022**, and we are currently planning for **both online and in-person** workshops/presentations, with flexible options for registration.
