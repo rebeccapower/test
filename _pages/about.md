@@ -3,9 +3,9 @@ permalink: /about/
 title: "About"
 layout: splash
 header:
-  overlay_image: "../assets/images/Charlottetown_Cathrae.jpg"
+  overlay_image: "../assets/images/Queens_Square_Charlottetown.png"
   overlay_filter: 0.25
-caption: "Photo credit: Martin Cathrae from Charlottetown, PE, Canada, CC BY-SA 2.0, via Wikimedia Commons"
+caption: "Photo: rokker, CC BY 3.0, via Wikimedia Commons"
 ---
 
 IslandoraCon is scheduled for **August 2 - 5th, 2022**, and we are currently planning for **both online and in-person** workshops/presentations, with flexible options for registration.
@@ -44,7 +44,11 @@ You can book online by **phone, email, or by** [**using the form linked here**](
   * You will be asked for information including your name, address, telephone number, dates of your stay, and type of room.
 
 
-## Map
+## Things to do
+
+Check out [Welcome PEI](https://welcomepei.com/destinations/charlottetown/) for more information on tourist destinations.
+
+### Map
 
 <div>
   <center>

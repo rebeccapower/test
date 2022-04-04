@@ -2,12 +2,12 @@
 layout: splash
 title: "Welcome!"
 header:
-  overlay_image: "/assets/images/Prince_Edward_Island_National_Park.jpg"
+  overlay_image: "/assets/images/Queens_Square_Charlottetown.png"
   overlay_filter: 0.25
   actions:
     - label: "See the preliminary schedule for IslandoraCon"
       url: "https://2022.islandora.ca/schedule/"
-  caption: "Photo credit: Bonnie from United States, CC0, via Wikimedia Commons"
+  caption: "Photo: rokker, CC BY 3.0, via Wikimedia Commons"
 ---
 
 As Covid-related restrictions begin to ease, the University of Prince Edward Island has generously renewed their offer to host a hybrid [Islandora](https://www.islandora.ca/) conference, based in Charlottetown, PEI. 
