@@ -7,6 +7,7 @@ header:
   actions:
     - label: "See the preliminary schedule for IslandoraCon"
       url: "https://2022.islandora.ca/schedule/"
+  caption: "Photo credit: Bonnie from United States, CC0, via Wikimedia Commons"
 ---
 
 As Covid-related restrictions begin to ease, the University of Prince Edward Island has generously renewed their offer to host a hybrid [Islandora](https://www.islandora.ca/) conference, based in Charlottetown, PEI. 
