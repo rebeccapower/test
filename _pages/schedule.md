@@ -3,8 +3,9 @@ permalink: /schedule/
 title: "Schedule"
 layout: splash
 header:
-  overlay_image: "../assets/images/Islandora-Community.png"
+  overlay_image: "../assets/images/Dalton_Hall_UPEI_Cathrae.jpg"
   overlay_filter: 0.25
+caption: "Photo credit: Martin Cathrae from Charlottetown, PE, Canada, CC BY-SA 2.0, via Wikimedia Commons"
 ---
 
 ## August 2 - 5 - IslandoraCon Preliminary Schedule
