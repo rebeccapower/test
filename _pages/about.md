@@ -8,7 +8,7 @@ header:
   caption: "Photo: rokker, CC BY 3.0, via Wikimedia Commons"
 ---
 
-IslandoraCon is scheduled for **August 2 - 5th, 2022**, and we are currently planning for **both online and in-person** workshops/presentations, with flexible options for registration.
+IslandoraCon is scheduled for **August 2 - 5th, 2022**, and we are currently planning for **both online and in-person** workshops/presentations, with flexible options for registration. [**The Call for Proposals is out now!**](https://forms.gle/BhAh5Ch27J5XvvmS8)
 
 For more information on islandora, [visit our website](https://www.islandora.ca/).
 
@@ -43,6 +43,9 @@ You can book online by **phone, email, or by** [**using the form linked here**](
   * Indicate that you are attending IslandoraCon.
   * You will be asked for information including your name, address, telephone number, dates of your stay, and type of room.
 
+## Transit
+
+T3 City Transit is Charlottetown's city transit, see schedules [here](https://www.t3transit.ca/t3-transit-schedules).
 
 ## Things to do
 
