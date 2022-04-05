@@ -12,7 +12,11 @@ header:
 
 As Covid-related restrictions begin to ease, the University of Prince Edward Island has generously renewed their offer to host a hybrid [Islandora](https://www.islandora.ca/) conference, based in Charlottetown, PEI. 
 
-The event is tentatively scheduled for **August 2 - 5th, 2022**, and we are currently hoping for **both online and in-person** workshops/presentations, with flexible options for registration.
+The event is scheduled for **August 2 - 5th, 2022**, and we are currently planning **online and in-person** workshops/presentations, with flexible options for registration.
+
+## Call for Proposals!
+
+Submissions to the Call for Proposals have been opened! Please submit [here](https://forms.gle/BhAh5Ch27J5XvvmS8). 
 
 ## IslandoraCon Programming Committee
 
