@@ -20,12 +20,12 @@ Beautiful Prince Edward Island offers a wide variety of accomodation options. In
 
 ### On campus 🏫
 
-On-campus accomdation at UPEI is available to conference attendees and participants, within the [Andrew Hall building](https://goo.gl/maps/fbqVWzPmPgLDsxst7).
+On-campus accommodation at UPEI is available to conference attendees and participants, within the [Andrew Hall building](https://goo.gl/maps/fbqVWzPmPgLDsxst7).
 Andrew Hall is the university's newest residence. Rooms are in single, double, and triple suite configurations and all have private bedrooms. For example, a double suite has two private bedrooms with a double bed in each. All suites have a seating area, private bathroom, telephone, TV, mini fridge and microwave. 
 
 **Nightly rate**: $108.00 (+ applicable taxes)
 
-#### How to book on campus accomodations
+#### How to book on campus accommodations
 
 You can book online by **phone, email, or by** [**using the form linked here**](https://www.upei.ca/conference/summer-visitors). 
 
