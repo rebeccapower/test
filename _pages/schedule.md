@@ -10,7 +10,7 @@ header:
 
 ## August 2 - 5 - IslandoraCon Preliminary Schedule
 
-IslandoraCon 2022: “Destination Mothership”
+IslandoraCon 2022: **Destination Mothership**
 
 **Stream 1**: Non-Developer (Librarian, Collection Administrator)
 
@@ -32,7 +32,7 @@ IslandoraCon 2022: “Destination Mothership”
   <tr>
    <td>9:30-10:30
    </td>
-   <td colspan="4" ><em>Welcome & Logistics (Live Streamed)</em>
+   <td colspan="4" ><em>Welcome & Logistics</em>
    </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ IslandoraCon 2022: “Destination Mothership”
   <tr>
    <td>3:00 - 5:00
    </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase 
+   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
 </table>
@@ -88,13 +88,13 @@ IslandoraCon 2022: “Destination Mothership”
   <tr>
    <td>9:30-10:00
    </td>
-   <td colspan="4" ><em>Intro to Hackathon projects (Live Streamed)</em>
+   <td colspan="4" ><em>Intro to Hackathon projects </em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
   <tr>
    <td>10:30-12:00
    </td>
-   <td colspan="4" ><em>Lightning Talks - site demos (Live Streamed)</em>
+   <td colspan="4" ><em>Lightning Talks - site demos </em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@ IslandoraCon 2022: “Destination Mothership”
   <tr>
    <td>3:00 - 5:00
    </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase 
+   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
 </table>
@@ -142,19 +142,19 @@ IslandoraCon 2022: “Destination Mothership”
   <tr>
    <td>9:30-10:30
    </td>
-   <td colspan="4" ><em>Welcome & Logistics (Live Streamed)</em>
+   <td colspan="4" ><em>Welcome & Logistics</em>
    </td>
   </tr>
   <tr>
    <td>10:30 - 11:15
    </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 1</em>
+   <td colspan="4" ><em>Proposed Talk/Roundtable Session 1</em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
   <tr>
    <td>11:15 - 12:00 
    </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 2</em>
+   <td colspan="4" ><em>Proposed Talk/Roundtable Session 2</em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
   <tr>
@@ -180,7 +180,7 @@ IslandoraCon 2022: “Destination Mothership”
   <tr>
    <td>3:00 - 5:00
    </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase 
+   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
 </table>
@@ -204,13 +204,13 @@ In person stream: **Conference Dinner**
   <tr>
    <td>9:30-10:30
    </td>
-   <td colspan="4" ><em>Welcome & Logistics (Live Streamed)</em>
+   <td colspan="4" ><em>Welcome & Logistics</em>
    </td>
   </tr>
   <tr>
    <td>10:30 - 12:00
    </td>
-   <td colspan="2" >Drupal Modules/Views for Displaying your content
+   <td colspan="2" >Drupal Modules - TBD, see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
    <td colspan="2" >Apache Solr Deployment in Islandora
    </td>
@@ -224,13 +224,13 @@ In person stream: **Conference Dinner**
   <tr>
    <td>1:00- 1:45 2:30
    </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 1</em>
+   <td colspan="4" ><em>Proposed Talk/Roundtable Session 1</em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
   <tr>
    <td>1:45 - 2:30
    </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 2</em>
+   <td colspan="4" ><em>Proposed Talk/Roundtable Session 2</em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
   <tr>
@@ -242,7 +242,7 @@ In person stream: **Conference Dinner**
   <tr>
    <td>3:00 - 4:00
    </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase 
+   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
    </td>
   </tr>
   <tr>
