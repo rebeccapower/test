@@ -180,7 +180,7 @@ IslandoraCon 2022: **Destination Mothership**
   <tr>
    <td>3:00 - 5:00
    </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="4" >Annual General Meeting</a>
    </td>
   </tr>
 </table>
