@@ -14,11 +14,11 @@ As Covid-related restrictions begin to ease, the University of Prince Edward Isl
 
 The event is scheduled for **August 2 - 5th, 2022**, and we are currently planning **online and in-person** workshops/presentations, with flexible options for registration. View the preliminary schedule for IslandoraCon [here](https://2022.islandora.ca/schedule/).
 
-## Call for Proposals!
+## Call for Proposals - Open Now!
 
-Submissions to the Call for Proposals have been opened! Please submit [here](https://forms.gle/BhAh5Ch27J5XvvmS8). 
+Submissions to the Call for Proposals have been opened! Please submit [using this google form](https://forms.gle/BhAh5Ch27J5XvvmS8). 
 
-**The deadline to submit to the Call for Proposals is May 15th.**
+***→ The deadline to submit to the Call for Proposals is May 15th!*** [***Get your submissions in as soon as possible.***](https://forms.gle/BhAh5Ch27J5XvvmS8)  ⏰
 
 ## IslandoraCon Programming Committee
 
