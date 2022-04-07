@@ -18,6 +18,8 @@ The event is scheduled for **August 2 - 5th, 2022**, and we are currently planni
 
 Submissions to the Call for Proposals have been opened! Please submit [here](https://forms.gle/BhAh5Ch27J5XvvmS8). 
 
+**The deadline to submit to the Call for Proposals is May 15th.**
+
 ## IslandoraCon Programming Committee
 
 **Are you interested in joining the conference program planning committee?** The upcoming meeting dates and registration for Zoom details can be accessed [using this link](https://us02web.zoom.us/meeting/register/tZElfu2hqTorGNYDda4sqCQyeSPLUbsCd-E9). Meetings take place **every other Tuesday, from 2:00 - 3:00 pm EST**.
