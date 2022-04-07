@@ -8,9 +8,9 @@ header:
   caption: "Photo: rokker, CC BY 3.0, via Wikimedia Commons"
 ---
 
-IslandoraCon is scheduled for **August 2 - 5th, 2022**, and we are currently planning for **both online and in-person** workshops/presentations, with flexible options for registration. [**The Call for Proposals is out now!**](https://forms.gle/BhAh5Ch27J5XvvmS8)
+IslandoraCon is scheduled for **August 2 - 5th, 2022**, and we are currently planning for **both online and in-person** workshops/presentations, with flexible options for registration. For more information on islandora, [visit our website](https://www.islandora.ca/).
 
-For more information on islandora, [visit our website](https://www.islandora.ca/).
+**→ The Call for Proposals is out now, and the deadline to submit is May 15th!** [**Submit using this form!**](https://forms.gle/BhAh5Ch27J5XvvmS8)  ⏰
 
 ## Accommodations
 
