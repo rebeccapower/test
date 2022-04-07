@@ -12,7 +12,7 @@ header:
 
 As Covid-related restrictions begin to ease, the University of Prince Edward Island has generously renewed their offer to host a hybrid [Islandora](https://www.islandora.ca/) conference, based in Charlottetown, PEI. 
 
-The event is scheduled for **August 2 - 5th, 2022**, and we are currently planning **online and in-person** workshops/presentations, with flexible options for registration.
+The event is scheduled for **August 2 - 5th, 2022**, and we are currently planning **online and in-person** workshops/presentations, with flexible options for registration. View the preliminary schedule for IslandoraCon [here](https://2022.islandora.ca/schedule/).
 
 ## Call for Proposals!
 
@@ -20,7 +20,7 @@ Submissions to the Call for Proposals have been opened! Please submit [here](htt
 
 ## IslandoraCon Programming Committee
 
-**Are you interested in joining the conference program planning committee?** The upcoming meeting dates and registration for Zoom details can be accessed [using this link](https://us02web.zoom.us/meeting/register/tZElfu2hqTorGNYDda4sqCQyeSPLUbsCd-E9). Meetings take place **every other Tuesday, from 2:00 - 3:00 pm EST**. You can also visit the [Community page of the newly-launched Islandora website](https://www.islandora.ca/community) to see the most up-to-date listing of events on the Islandora Community Calendar.
+**Are you interested in joining the conference program planning committee?** The upcoming meeting dates and registration for Zoom details can be accessed [using this link](https://us02web.zoom.us/meeting/register/tZElfu2hqTorGNYDda4sqCQyeSPLUbsCd-E9). Meetings take place **every other Tuesday, from 2:00 - 3:00 pm EST**.
 
 **If you would like to join the program committee, but can’t make this time,** please [write to Donald Moses](mailto:dmoses@upei.ca). 
 
