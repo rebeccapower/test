@@ -43,13 +43,20 @@ You can book online by **phone, email, or by** [**using the form linked here**](
   * Indicate that you are attending IslandoraCon.
   * You will be asked for information including your name, address, telephone number, dates of your stay, and type of room.
 
+## Getting to PEI
+
+Charlottetown, PEI is reachable by flight, drive or ferry. Further details are available [here](https://www.tourismpei.com/about-pei/getting-here).
+
+* Ferry information is available at [ferries.ca](https://www.ferries.ca/book/) as well as [CTMA](https://ctma.ca/en/).
+* [Charlottetown Airport YYG](https://flyyyg.com/)
+
 ## Transit
 
 T3 City Transit is Charlottetown's city transit, see schedules [here](https://www.t3transit.ca/t3-transit-schedules).
 
 ## Things to do
 
-Check out [Welcome PEI](https://welcomepei.com/destinations/charlottetown/) for more information on tourist destinations.
+See the listings provided on [Discover Charlottetown](https://www.discovercharlottetown.com/) and [Welcome PEI](https://welcomepei.com/destinations/charlottetown/) for more information on things to see, historical destinations, and food recommendations.
 
 ### Map
 
