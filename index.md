@@ -15,6 +15,7 @@ header:
 Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5th, 2022** in beautiful Charlottetown PEI, as well as streaming on Zoom for remote attendees. View the preliminary schedule for IslandoraCon [here](https://2022.islandora.ca/schedule/).
 
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-tickets-313517187347) to attend **in person**.
+
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
 
