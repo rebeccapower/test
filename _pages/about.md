@@ -8,9 +8,16 @@ header:
   caption: "Photo: rokker, CC BY 3.0, via Wikimedia Commons"
 ---
 
-IslandoraCon is scheduled for **August 2 - 5th, 2022**, and we are currently planning for **both online and in-person** workshops/presentations, with flexible options for registration. For more information on islandora, [visit our website](https://www.islandora.ca/).
+## Register now for IslandoraCon!
 
-**→ The Call for Proposals is out now, and the deadline to submit is May 15th!** [**Submit using this form!**](https://forms.gle/BhAh5Ch27J5XvvmS8)  ⏰
+Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5th, 2022** in beautiful Charlottetown PEI, as well as streaming on Zoom for remote attendees. View the preliminary schedule for IslandoraCon [here](https://2022.islandora.ca/schedule/). For more information on islandora, [visit our website](https://www.islandora.ca/).
+
+→ Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-tickets-313517187347) to attend **in person**.
+
+→ Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
+
+
+**The Call for Proposals is out now, and the deadline to submit is May 15th!** [**Submit using this form!**](https://forms.gle/BhAh5Ch27J5XvvmS8)  ⏰
 
 ## Accommodations
 
