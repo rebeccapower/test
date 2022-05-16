@@ -23,7 +23,7 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 
 Submissions to the Call for Proposals have been opened! Please submit [using this google form](https://forms.gle/BhAh5Ch27J5XvvmS8). 
 
-***→ The deadline to submit to the Call for Proposals is May 15th!*** [***Get your submissions in as soon as possible.***](https://forms.gle/BhAh5Ch27J5XvvmS8)  ⏰
+***→ The deadline to submit to the Call for Proposals is May 20th.*** [***Submit your proposal here!***](https://forms.gle/BhAh5Ch27J5XvvmS8)  ⏰
 
 ## IslandoraCon Programming Committee
 
