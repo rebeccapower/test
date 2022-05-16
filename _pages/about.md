@@ -52,14 +52,23 @@ You can book online by **phone, email, or by** [**using the form linked here**](
 
 ## Getting to PEI
 
-Charlottetown, PEI is reachable by flight, drive or ferry. Further details are available [here](https://www.tourismpei.com/about-pei/getting-here).
+Charlottetown, PEI is reachable by flight, drive or ferry. Further details from Tourism PEI are available [here](https://www.tourismpei.com/about-pei/getting-here). 
 
 * Ferry information is available at [ferries.ca](https://www.ferries.ca/book/) as well as [CTMA](https://ctma.ca/en/).
 * [Charlottetown Airport YYG](https://flyyyg.com/)
+  * The Charlottetown Airport is located 6km away (about a 10 minute drive) from UPEI. The minimum fare to the Charlottetown Zone from the airport is [$16](https://flyyyg.com/parking-transport/taxi_rideshare/)
 
-## Transit
+### Charlottetown Transit
 
 T3 City Transit is Charlottetown's city transit, see schedules [here](https://www.t3transit.ca/t3-transit-schedules).
+
+### Taxi information
+
+Links and phone numbers to cab services in Charlottetown are listed below:
+
+* [GrabbaCab](http://www.grabbacab.ca/): [902-892-6000](tel:9028926000)
+* [Yellow Cab](https://yellowcabpei.com/): [902-566-6666](tel:9025666666)
+* [Co-Op Taxi](http://www.cooptaxiline.com/home.html): [902-628-8200](tel:9026288200)
 
 ## Things to do
 
