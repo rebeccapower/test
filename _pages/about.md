@@ -70,6 +70,11 @@ Links and phone numbers to cab services in Charlottetown are listed below:
 * [Yellow Cab](https://yellowcabpei.com/): [902-566-6666](tel:9025666666)
 * [Co-Op Taxi](http://www.cooptaxiline.com/home.html): [902-628-8200](tel:9026288200)
 
+### Car Rentals
+
+* [Turo : Charlottetown, PEI](https://turo.com/us/en/search?country=CA&defaultZoomLevel=11&delivery=false&deliveryLocationType=googlePlace&endDate=08%2F06%2F2022&endTime=11%3A00&isMapSearch=false&itemsPerPage=200&latitude=46.23824&location=Charlottetown%2C%20PE%2C%20Canada&locationType=CITY&longitude=-63.1310704&placeId=ChIJxYN_1N1SXksRJ5tRn7h3V1o&region=PE&sortType=RELEVANCE&startDate=08%2F01%2F2022&startTime=10%3A00&useDefaultMaximumDistance=true)
+* [PEI Car Rental](https://peicarrental.ca/vehicle-guide)
+
 ## Things to do
 
 See the listings provided on [Discover Charlottetown](https://www.discovercharlottetown.com/) and [Welcome PEI](https://welcomepei.com/destinations/charlottetown/) for more information on things to see, historical destinations, and food recommendations.
