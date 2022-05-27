@@ -19,12 +19,6 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
 
-## Call for Proposals - Open Now!
-
-Submissions to the Call for Proposals have been opened! Please submit [using this google form](https://forms.gle/BhAh5Ch27J5XvvmS8). 
-
-***→ The deadline to submit to the Call for Proposals is May 20th.*** [***Submit your proposal here!***](https://forms.gle/BhAh5Ch27J5XvvmS8)  ⏰
-
 ## IslandoraCon Programming Committee
 
 **Are you interested in joining the conference program planning committee?** The upcoming meeting dates and registration for Zoom details can be accessed [using this link](https://us02web.zoom.us/meeting/register/tZElfu2hqTorGNYDda4sqCQyeSPLUbsCd-E9). Meetings take place **every other Tuesday, from 2:00 - 3:00 pm EST**.
