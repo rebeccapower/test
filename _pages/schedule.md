@@ -237,17 +237,18 @@ In person stream: **Conference Dinner**
   </tr>
    <td>2:30 - 3:00
    </td>
+  <tr>
    <td colspan="4" ><em>Afternoon Break</em>
    </td>
   </tr>
   <tr>
    <td>3:00 - 4:00
    </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase
    </td>
   </tr>
   <tr>
-   <td>4 - 5:00
+   <td>4:00 - 5:00
    </td>
    <td colspan="4" ><em>Hackathon Presentations and Farewells</em>
    </td>
