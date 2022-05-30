@@ -232,7 +232,7 @@ In person stream: **Conference Dinner**
   <tr>
    <td>1:00- 2:30
    </td>
-   <td colspan="4" ><em>Workshop: Using Islandora to implement your preservation plan</a>
+   <td colspan="4" ><em>Workshop: Using Islandora to implement your preservation plan</em>
    </td>
   </tr>
    <td>2:30 - 3:00
