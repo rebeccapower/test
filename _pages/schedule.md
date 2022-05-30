@@ -66,7 +66,7 @@ IslandoraCon 2022: **Destination Mothership**
   <tr>
    <td>3:00 - 5:00
    </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase
    </td>
   </tr>
 </table>
@@ -86,19 +86,21 @@ IslandoraCon 2022: **Destination Mothership**
    </td>
   </tr>
   <tr>
-   <td>9:30-10:00
+   <td>9:30-10:30
    </td>
-   <td colspan="4" ><em>Intro to Hackathon projects </em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="4" ><em>Intro to Hackathon projects </em> 
    </td>
   </tr>
   <tr>
    <td>10:30-12:00
    </td>
-   <td colspan="4" ><em>Lightning Talks - site demos </em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td>Migration for Content Owners
+   </td>
+   <td colspan="3" >Migration for Developers and Sysadmins
    </td>
   </tr>
   <tr>
-   <td>12 - 1:00
+   <td>12:00 - 1:00
    </td>
    <td colspan="4" ><em>Lunch</em>
    </td>
@@ -106,9 +108,9 @@ IslandoraCon 2022: **Destination Mothership**
   <tr>
    <td>1:00- 2:30
    </td>
-   <td>Migration for Content Owners
+   <td><em>Lightning Talks </em> 
    </td>
-   <td colspan="3" >Migration for Developers and Sysadmins
+   <td colspan="3" > ISLE Workshop
    </td>
   </tr>
   <tr>
@@ -120,7 +122,7 @@ IslandoraCon 2022: **Destination Mothership**
   <tr>
    <td>3:00 - 5:00
    </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase
    </td>
   </tr>
 </table>
@@ -148,13 +150,13 @@ IslandoraCon 2022: **Destination Mothership**
   <tr>
    <td>10:30 - 11:15
    </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 1</em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="4" ><em>Proposed Talk/Roundtable Session 1 - to be announced</em>
    </td>
   </tr>
   <tr>
    <td>11:15 - 12:00 
    </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 2</em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="4" ><em>Proposed Talk/Roundtable Session 2 - to be announced</em>
    </td>
   </tr>
   <tr>
@@ -208,32 +210,31 @@ In person stream: **Conference Dinner**
    </td>
   </tr>
   <tr>
-   <td>10:30 - 12:00
+   <td>10:30 - 11:00
    </td>
-   <td colspan="2" >Drupal Modules - TBD, see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="2" > To be announced
    </td>
-   <td colspan="2" >Apache Solr Deployment in Islandora
+   <td colspan="2" > To be announced
    </td>
   </tr>
   <tr>
-   <td>12 - 1:00
+    <td>11:00 - 12:00
+    </td>
+    <td colspan="4"><em>Panel: The Next Generation: New Instances of Islandora</em>
+    </td>
+  </tr>
+  <tr>
+   <td>12:00 - 1:00
    </td>
    <td colspan="4" ><em>Lunch</em>
    </td>
   </tr>
   <tr>
-   <td>1:00- 1:45 2:30
+   <td>1:00- 2:30
    </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 1</em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
-   </td>
-  </tr>
-  <tr>
-   <td>1:45 - 2:30
-   </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 2</em> - see <a href="https://forms.gle/BhAh5Ch27J5XvvmS8">Call for Proposals!</a>
+   <td colspan="4" ><em>Workshop: Using Islandora to implement your preservation plan</a>
    </td>
   </tr>
-  <tr>
    <td>2:30 - 3:00
    </td>
    <td colspan="4" ><em>Afternoon Break</em>
