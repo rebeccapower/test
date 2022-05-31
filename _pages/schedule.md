@@ -235,9 +235,9 @@ In person stream: **Conference Dinner**
    <td colspan="4" ><em>Workshop: Using Islandora to implement your preservation plan</em>
    </td>
   </tr>
+  <tr>
    <td>2:30 - 3:00
    </td>
-  <tr>
    <td colspan="4" ><em>Afternoon Break</em>
    </td>
   </tr>
