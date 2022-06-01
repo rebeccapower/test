@@ -18,6 +18,10 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
+## Submit a Logo Design for IslandoraCon!
+
+Starting today and **closing June 17**, islandora is issuing an open call for a logo design for the IslandoraCon 2022 t-shirt! For more details on the requirements and how to make your submission, visit the [Logo Design Contest page](https://2022.islandora.ca/logo-design/)!
+
 
 ## IslandoraCon Programming Committee
 
