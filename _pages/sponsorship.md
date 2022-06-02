@@ -10,6 +10,8 @@ header:
 
 ## Islandoracon 2022: Sponsorship Levels and Benefits
 
+Information on sponsorship options for IslandoraCon are available here. If you have a sponsorship request we would be pleased to hear from you at [community@islandora.ca](mailto:community@islandora.ca)! 
+
 ### Platinum Level Sponsors - $3,000
 
 * Large logo on conference website homepage
