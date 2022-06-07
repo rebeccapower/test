@@ -19,57 +19,18 @@ IslandoraCon 2022: **Destination Mothership**
 
 ### Tuesday, August 2nd 
 
-
-<table>
-  <tr>
-   <td><strong>Time</strong>
-   </td>
-   <td colspan="2" ><strong>Stream 1</strong>
-   </td>
-   <td colspan="2" ><strong>Stream 2</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>9:30-10:30
-   </td>
-   <td colspan="4" ><em>Welcome & Logistics</em>
-   </td>
-  </tr>
-  <tr>
-   <td>10:30 - 12:00
-   </td>
-   <td>Islandora Workshop for Beginners pt. 1
-   </td>
-   <td colspan="3" >Developing in Islandora pt. 1
-   </td>
-  </tr>
-  <tr>
-   <td>12 - 1:00
-   </td>
-   <td colspan="4" ><em>Lunch</em>
-   </td>
-  </tr>
-  <tr>
-   <td>1:00- 2:30
-   </td>
-   <td>Islandora Workshop for Beginners pt. 2
-   </td>
-   <td colspan="3" >Developing in Islandora pt. 2
-   </td>
-  </tr>
-  <tr>
-   <td>2:30 - 3:00
-   </td>
-   <td colspan="4" ><em>Afternoon Break</em>
-   </td>
-  </tr>
-  <tr>
-   <td>3:00 - 5:00
-   </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase
-   </td>
-  </tr>
-</table>
+| Time  | Session(s) - August 2                                                                                                                 |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 9:30  | **Welcome**                                                                                                                           |
+| 10:00 | **Introductions and Icebreakers**                                                                                                     |
+| 10:30 | **Workshop: Islandora Workshop for Beginners pt. 1 <br>10:30-12:00**<br>Rosie LeFaive / Don Richards <br>_- presenting in person_ |
+|       | **Technical: Workshop: Developing in Islandora pt. 1 <br>10:30 - 12:00**<br>Seth Shaw / Nigel Banks <br>_- presenting in person_      |
+| 12:00 | **Lunch**                                                                                                                             |
+| 1:00  | **Workshop: Islandora Workshop for Beginners pt. 1 <br>1:00 - 2:30**<br>Rosie LeFaive / Don Richards <br>_- presenting in person_     |
+|       | **Technical: Workshop: Developing in Islandora pt. 1 <br>1:00 - 2:30**<br>Seth Shaw / Nigel Banks <br>_- presenting in person_        |
+| 2:30  | **Afternoon Break**                                                                                                                   |
+| 3:00  | **Intro to Hackathon Projects // Community Meetings**                                                                                 |
+| 4:00  | **Service Provider Showcase: Joe Corall, Sole Proprietor LibOps LLC<br>4:00 - 5:00**<br>_- presenting virtually_                      |
 
 
 
