@@ -17,9 +17,7 @@ IslandoraCon 2022: **Destination Mothership**
 **Stream 2**: Technical (Developer, Systems Administrator)
 
 
-### Tuesday, August 2nd 
-
-| Time  | Session(s) - August 2                                                                                                                 |
+| Time  | Session(s) - Tuesday, August 2                                                                                                                 |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------|
 | 9:30  | **Welcome**                                                                                                                           |
 | 10:00 | **Introductions and Icebreakers**                                                                                                     |
@@ -34,190 +32,52 @@ IslandoraCon 2022: **Destination Mothership**
 
 
 
-### Wednesday, August 3rd
-
-
-<table>
-  <tr>
-   <td><strong>Time</strong>
-   </td>
-   <td colspan="2" ><strong>Stream 1</strong>
-   </td>
-   <td colspan="2" ><strong>Stream 2</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>9:30-10:30
-   </td>
-   <td colspan="4" ><em>Intro to Hackathon projects </em> 
-   </td>
-  </tr>
-  <tr>
-   <td>10:30-12:00
-   </td>
-   <td>Migration for Content Owners
-   </td>
-   <td colspan="3" >Migration for Developers and Sysadmins
-   </td>
-  </tr>
-  <tr>
-   <td>12:00 - 1:00
-   </td>
-   <td colspan="4" ><em>Lunch</em>
-   </td>
-  </tr>
-  <tr>
-   <td>1:00- 2:30
-   </td>
-   <td><em>Lightning Talks </em> 
-   </td>
-   <td colspan="3" > ISLE Workshop
-   </td>
-  </tr>
-  <tr>
-   <td>2:30 - 3:00
-   </td>
-   <td colspan="4" ><em>Afternoon Break</em>
-   </td>
-  </tr>
-  <tr>
-   <td>3:00 - 5:00
-   </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase
-   </td>
-  </tr>
-</table>
+| Time  | Session(s) - Wednesday, August 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9:30  | **Welcome**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 10:00 | **Intro to Hackathon Projects**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 10:30 | **Workshop: Migration for Content Owners <br>10:30 - 12:00**<br>Dara Virks / Chris Day <br>_- presenting in person_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|       | **Technical: Workshop: Migration for Developers and Sysadmins<br>10:30-12:00**<br>Alan Stanley _(presenting in person)_ / Danny Lamb _(presenting virtually)_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 12:00 | **Lunch**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 1:00  | **_Lightning Talks_**<br>**1:00 - 2:00**<br>**Querying your repo with Islandora Repository Reports**<br>Mark Jordan <br>_- presenting virtually_<br>**Introduction to Slack for Islandorians**<br>Yamil Suarez <br>_- presenting virtually_<br>**How to create a GitHub account & How to submit issues**<br>Yamil Suarez <br>_- presenting virtually_<br>**A walkthrough of the new Simon Fraser University (SFU) Institutional Repository (IR) -- Summit** <br>Janice Banser <br>_- presenting virtually_<br>**Herbarium Samples in Islandora**<br>Donald Moses <br>_- presenting in person_<br>**Migration and Quality Control for Repository Managers**<br>Amy Blau <br>_- presenting virtually_ |
+|       | **Technical: Workshop: All things ISLE<br>1:00 - 2:30**<br>Don Richards / Gavin Morris<br>_- presenting in person_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 2:00  | **Presentation: IMLS Grant - Fedora Migration Paths and Tools: a Pilot Project<br>2:00 - 2:30**<br>Arran Griffith<br>_- presenting virtually_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 2:30  | **Afternoon Break**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 3:00  | **Service Provider Showcase: Born-Digital<br>3:00 - 4:00**<br>Noah Smith<br>_- presentation delivery to be announced_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 4:00  | **Workshop: Documentation Interest Group Doc-a-thon primer<br>4:00 - 5:00**<br>Yamil Suarez <br>_- presenting virtually_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 
 
-### Thursday, August 4th
 
-
-<table>
-  <tr>
-   <td><strong>Time</strong>
-   </td>
-   <td colspan="2" ><strong>Stream 1</strong>
-   </td>
-   <td colspan="2" ><strong>Stream 2</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>9:30-10:30
-   </td>
-   <td colspan="4" ><em>Welcome & Logistics</em>
-   </td>
-  </tr>
-  <tr>
-   <td>10:30 - 11:15
-   </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 1 - to be announced</em>
-   </td>
-  </tr>
-  <tr>
-   <td>11:15 - 12:00 
-   </td>
-   <td colspan="4" ><em>Proposed Talk/Roundtable Session 2 - to be announced</em>
-   </td>
-  </tr>
-  <tr>
-   <td>12 - 1:00
-   </td>
-   <td colspan="4" ><em>Lunch</em>
-   </td>
-  </tr>
-  <tr>
-   <td>1:00- 2:30
-   </td>
-   <td colspan="2" >Metadata Management in Islandora
-   </td>
-   <td colspan="2" >Microservices and content processing
-   </td>
-  </tr>
-  <tr>
-   <td>2:30 - 3:00
-   </td>
-   <td colspan="4" ><em>Afternoon Break</em>
-   </td>
-  </tr>
-  <tr>
-   <td>3:00 - 5:00
-   </td>
-   <td colspan="4" >Annual General Meeting
-   </td>
-  </tr>
-</table>
-
+| Time  | Session(s) - Thursday, August 4                                                                                                                                             |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9:30  | **Welcome**                                                                                                                                                       |
+| 10:30 | **Presentation: Islandora Lite Update <br>10:30 - 11:15**<br>Kirsta Stapelfeldt, Natkeeran Ledchumykanthan, Kyle Huynh, Irfan Rahman <br>_- presenting in person_ |
+| 11:15 | **Presentation: Stewarding Research Data in Islandora<br>11:15 - 12:00**<br>Kim Mears, Donald Moses, Alexander O'Neill <br>_- presenting in person_               |
+| 12:00 | **Lunch**                                                                                                                                                         |
+| 1:00  | **Workshop: Metadata Management in Islandora <br>1:00 - 2:30**<br>Paige Morfitt, Michele Janowiecki <br>_- presenting in person_                                  |
+|       | **Technical: Workshop: Microservices and content processing <br>1:00 - 2:30**<br>Alan Stanley, Kyle Hyunh <br>_- presenting in person_                            |
+| 2:30  | **Afternoon Break**                                                                                                                                               |
+| 3:00  | **Annual General Meeting<br>3:00 - 5:00**                                                                                                                         |
 
 In person stream: **Conference Dinner**
 
 
-### Friday, August 5th 
+
+|  Time | Session(s) - Friday, August 5                                                                                                                                            |
+|:-----:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9:30  | **Welcome**                                                                                                                                                              |
+| 10:30 | **Presentation: Managing Metadata for Migrations : What we wrapped up at Whitman<br>10:30 - 11:00**<br>Paige Morfitt<br>_- presenting in person_                         |
+|       | **Technical: Presentation: Integrating machine learning-based image entity extraction into Islandora<br>10:30 - 11:00**<br>Alexander O'Neill<br>_- presenting in person_ |
+| 11:00 | **Panel: The Next Generation: New Instances of Islandora<br>11:00 - 12:00**<br>Julia Corrin, Kathryn (Katie) Gucer, Seth Shaw<br>_- presenting in person_                |
+| 12:00 | **Lunch**                                                                                                                                                                |
+| 1:00  | **Workshop: Using Islandora to implement your preservation plan<br>1:00 - 2:30**<br>Mark Jordan<br>_- presenting virtually_                                              |
+| 2:30  | **Afternoon Break**                                                                                                                                                      |
+| 3:00  | **Presentation: AWS & Discoverygarden<br>3:00 - 3:30**<br>Luke Taylor<br>_- presentation delivery to be announced_                                                       |
+| 3:30  | **Service Provider Showcase: Discoverygarden<br>3:30 - 4:00**<br>Morgan Dawe<br>_- presentation delivery to be announced_                                                |
+| 4:00  | **Hackathon Presentations and Farewells**                                                                                                                                |
 
 
-<table>
-  <tr>
-   <td><strong>Time</strong>
-   </td>
-   <td colspan="2" ><strong>Stream 1</strong>
-   </td>
-   <td colspan="2" ><strong>Stream 2</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>9:30-10:30
-   </td>
-   <td colspan="4" ><em>Welcome & Logistics</em>
-   </td>
-  </tr>
-  <tr>
-   <td>10:30 - 11:00
-   </td>
-   <td colspan="2" > To be announced
-   </td>
-   <td colspan="2" > To be announced
-   </td>
-  </tr>
-  <tr>
-    <td>11:00 - 12:00
-    </td>
-    <td colspan="4"><em>Panel: The Next Generation: New Instances of Islandora</em>
-    </td>
-  </tr>
-  <tr>
-   <td>12:00 - 1:00
-   </td>
-   <td colspan="4" ><em>Lunch</em>
-   </td>
-  </tr>
-  <tr>
-   <td>1:00- 2:30
-   </td>
-   <td colspan="4" ><em>Workshop: Using Islandora to implement your preservation plan</em>
-   </td>
-  </tr>
-  <tr>
-   <td>2:30 - 3:00
-   </td>
-   <td colspan="4" ><em>Afternoon Break</em>
-   </td>
-  </tr>
-  <tr>
-   <td>3:00 - 4:00
-   </td>
-   <td colspan="4" >Hackathon // Community Meetings // Service Providers Showcase
-   </td>
-  </tr>
-  <tr>
-   <td>4:00 - 5:00
-   </td>
-   <td colspan="4" ><em>Hackathon Presentations and Farewells</em>
-   </td>
-  </tr>
-</table>
-
-
-
-### Saturday
+### Saturday 
 
 In person stream: **Community Outing**
