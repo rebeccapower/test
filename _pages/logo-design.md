@@ -21,6 +21,8 @@ Starting today and **closing June 17**, islandora is issuing an open call for a 
   * .png, .bmp, .jpg, .jpeg, .tif, .gif, .tiff, .svg, .ai, .eps
 
 
+Existing islandora image assets such as logos and headers can be found [at this link](https://drive.google.com/drive/folders/1vG1J1szTzbqQrgj9iL8vTy30YCDzd7BD?usp=sharing).
+
 Send an email to [community@islandora.ca](mailto:community@islandora.ca) with the subject line: **IslandoraCon Logo Contest** to enter! Make sure to include the image vector file, and your name in your submission. 
 
 ## Voting
