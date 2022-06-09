@@ -16,9 +16,6 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
-
-**The Call for Proposals is out now, and the deadline to submit is May 20th!** [**Submit using this form!**](https://forms.gle/BhAh5Ch27J5XvvmS8)  ⏰
-
 ## Accommodations
 
 ### Off campus 🏨
