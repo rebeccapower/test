@@ -12,9 +12,7 @@ header:
 
 IslandoraCon 2022: **Destination Mothership**
 
-**Stream 1**: Non-Developer (Librarian, Collection Administrator)
-
-**Stream 2**: Technical (Developer, Systems Administrator)
+Both non-developer (ex. Librarian, Collection Administrator) and technical (ex. Developer, Systems Administrator) sessions are being offered. Technical sessions are indicated by "Technical" in the title.
 
 
 | Time  | Session(s) - Tuesday, August 2                                                                                                                 |
