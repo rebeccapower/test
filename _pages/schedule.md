@@ -8,7 +8,7 @@ header:
   caption: "Photo: Martin Cathrae from Charlottetown, PE, Canada, CC BY-SA 2.0, via Wikimedia Commons"
 ---
 
-## August 2 - 5 - IslandoraCon Preliminary Schedule
+## August 2 - 5 - IslandoraCon Schedule
 
 IslandoraCon 2022: **Destination Mothership**
 
