@@ -14,6 +14,8 @@ IslandoraCon 2022: **Destination Mothership**
 
 Both non-developer (ex. Librarian, Collection Administrator) and technical (ex. Developer, Systems Administrator) sessions are being offered. Technical sessions are indicated by "Technical" in the title.
 
+The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert the start time on August 2, as well as any times you like [at this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IslandoraCon&iso=20220802T0930&p1=753). 
+
 
 | Time  | Session(s) - Tuesday, August 2                                                                                                                 |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------|
