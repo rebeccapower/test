@@ -30,6 +30,4 @@ Is there an event you want to see at IslandoraCon 2022? If you have other feedba
 
 ## Our Sponsors
 
-<p align="center">
-![Born-Digital logo](/assets/images/born-digital-logo.png)
-</p>
+<p align="center"><img src="assets/images/born-digital-logo.png" alt="Born-Digital logo" /></p>
