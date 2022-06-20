@@ -18,10 +18,6 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
-## Submit a Logo Design for IslandoraCon!
-
-Starting today and **closing June 17**, islandora is issuing an open call for a logo design for the IslandoraCon 2022 t-shirt! For more details on the requirements and how to make your submission, visit the [Logo Design Contest page](https://2022.islandora.ca/logo-design/)!
-
 
 ## IslandoraCon Programming Committee
 
@@ -31,3 +27,7 @@ Starting today and **closing June 17**, islandora is issuing an open call for a 
 
 **Have you been to a hybrid event you thought went really well?** 
 Is there an event you want to see at IslandoraCon 2022? If you have other feedback please feel free to send it to [Donald](mailto:dmoses@upei.ca), or to [community@islandora.ca](mailto:community@islandora.ca). In the meantime, keep an eye out for additional information (including a call for proposals) as our plans evolve.
+
+## Our Sponsors
+
+![Born-Digital logo](/assets/images/born-digital-logo.png)
