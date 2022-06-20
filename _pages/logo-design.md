@@ -14,6 +14,17 @@ Starting today and **closing June 17**, islandora is issuing an open call for a 
 
 **→ Send an email to [community@islandora.ca](mailto:community@islandora.ca)** with the subject line: **IslandoraCon Logo Contest** to enter! **Make sure to include the image vector file, and your name in your submission.**
 
+## Submissions
+
+1.
+
+<p align="center"><img src="assets/images/UFO-Lobster.png" alt="A UFO is pictured with its rays reaching towards a lobster. IslandoraCon is spelled out above the image, and Prince Edward Island 2022 is written below" /></p>
+
+2.
+
+<p align="center"><img src="assets/images/Space-Lobster.PNG" alt="A cartoon wide eyed lobster in a spaceship that is taking off" /></p>
+
+
 ### Requirements
 
 * Must be your own design.
