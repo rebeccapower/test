@@ -18,11 +18,11 @@ Starting today and **closing June 17**, islandora is issuing an open call for a 
 
 1.
 
-<p align="center"><img src="assets/images/UFO-Lobster.png" alt="A UFO is pictured with its rays reaching towards a lobster. IslandoraCon is spelled out above the image, and Prince Edward Island 2022 is written below" /></p>
+<p align="center"><img src="../assets/images/UFO-Lobster.png" alt="A UFO is pictured with its rays reaching towards a lobster. IslandoraCon is spelled out above the image, and Prince Edward Island 2022 is written below" /></p>
 
 2.
 
-<p align="center"><img src="assets/images/Space-Lobster.PNG" alt="A cartoon wide eyed lobster in a spaceship that is taking off" /></p>
+<p align="center"><img src="../assets/images/Space-Lobster.PNG" alt="A cartoon wide eyed lobster in a spaceship that is taking off" /></p>
 
 
 ### Requirements
