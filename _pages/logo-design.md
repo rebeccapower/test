@@ -32,8 +32,11 @@ Starting today and **closing July 1st**, islandora is issuing an open call for a
 
 
 4.
-<p align="center"><img src="../assets/images/Logo_Persistence-is-fruitful.png" width="450" alt="The islandoracon logo is shown moving forward, captioned "Persistence is fruitful"" /></p>
+<p align="center"><img src="../assets/images/Logo_Persistence-is-fruitful.png" width="450" alt="The islandoracon logo is shown moving forward, captioned Persistence is fruitful" /></p>
 
+
+5.
+<p align="center"><img src="../assets/images/Logo_IslandoraCONnection.png" width="450" alt="The islandoracon logo is shown underneath a green mothership, captioned IslandoraConNECTION 2022" /></p>
 
 
 ### Requirements
