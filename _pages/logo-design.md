@@ -10,7 +10,7 @@ header:
 
 ## IslandoraCon Logo Design Contest
 
-Starting today and **closing June 17**, islandora is issuing an open call for a logo design for the IslandoraCon 2022 t-shirt. The theme of this year’s conference is "Destination: Mothership”, representing a return to the values and approaches that have made our community and software best-in-class!
+Starting today and **closing July 1st**, islandora is issuing an open call for a logo design for the IslandoraCon 2022 t-shirt. The theme of this year’s conference is "Destination: Mothership”, representing a return to the values and approaches that have made our community and software best-in-class!
 
 **→ Send an email to [community@islandora.ca](mailto:community@islandora.ca)** with the subject line: **IslandoraCon Logo Contest** to enter! **Make sure to include the image vector file, and your name in your submission.**
 
