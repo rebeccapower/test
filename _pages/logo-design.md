@@ -14,6 +14,28 @@ Starting today and **closing July 1st**, islandora is issuing an open call for a
 
 **→ Send an email to [community@islandora.ca](mailto:community@islandora.ca)** with the subject line: **IslandoraCon Logo Contest** to enter! **Make sure to include the image vector file, and your name in your submission.**
 
+## Submissions
+
+1.
+
+<p align="center"><img src="../assets/images/UFO-Lobster.png" width="450" alt="A UFO is pictured with its rays reaching towards a lobster. IslandoraCon is spelled out above the image, and Prince Edward Island 2022 is written below" /></p>
+
+
+2.
+
+<p align="center"><img src="../assets/images/Space-Lobster.PNG" width="450" alt="A cartoon wide eyed lobster in a spaceship that is taking off" /></p>
+
+
+3.
+
+<p align="center"><img src="../assets/images/Logo_IslandoraCon-Rocketship.png" width="450" alt="A cute green islandora spaceship with eyes is taking off" /></p>
+
+
+4.
+<p align="center"><img src="../assets/images/Logo_Persistence-is-fruitful.png" width="450" alt="The islandoracon logo is shown moving forward, captioned "Persistence is fruitful"" /></p>
+
+
+
 ### Requirements
 
 * Must be your own design.
