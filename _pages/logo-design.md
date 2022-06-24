@@ -52,4 +52,4 @@ Existing islandora image assets such as logos and headers can be found [at this 
 
 ## Voting
 
-Designs will be uploaded to this page after the contest has closed. A poll will be made available to vote for your favourite! 
+A poll will be made available to vote for your favourite design! Stay tuned. 
