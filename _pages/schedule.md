@@ -55,7 +55,7 @@ The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert
 | 10:30 | **Presentation: Islandora Lite Update <br>10:30 - 11:15**<br>Kirsta Stapelfeldt, Natkeeran Ledchumykanthan, Kyle Huynh, Irfan Rahman <br>_- presenting in person_ |
 | 11:15 | **Presentation: Stewarding Research Data in Islandora<br>11:15 - 12:00**<br>Kim Mears, Donald Moses, Alexander O'Neill <br>_- presenting in person_               |
 | 12:00 | **Lunch**                                                                                                                                                         |
-| 1:00  | **Workshop: Metadata Management in Islandora <br>1:00 - 2:30**<br>Paige Morfitt _(presenting in person)_, Michele Janowiecki _(presenting virtually)_<br>                                  |
+| 1:00  | **Workshop: Metadata Management in Islandora <br>1:00 - 2:30**<br>Paige Morfitt _(presenting in person)_, Michelle Janowiecki _(presenting virtually)_<br>                                  |
 |       | **Technical Workshop: Microservices and content processing <br>1:00 - 2:30**<br>Alan Stanley, Kyle Hyunh <br>_- presenting in person_                            |
 | 2:30  | **Afternoon Break**                                                                                                                                               |
 | 3:00  | **Annual General Meeting<br>3:00 - 5:00**                                                                                                                         |
