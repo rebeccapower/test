@@ -5,7 +5,7 @@ header:
   overlay_image: "/assets/images/Queens_Square_Charlottetown.png"
   overlay_filter: 0.25
   actions:
-    - label: "See the preliminary schedule for IslandoraCon"
+    - label: "See the schedule for IslandoraCon"
       url: "https://2022.islandora.ca/schedule/"
   caption: "Photo: rokker, CC BY 3.0, via Wikimedia Commons"
 ---
