@@ -8,48 +8,6 @@ header:
   caption: "Photo: Martin Cathrae from Charlottetown, PE, Canada, CC BY-SA 2.0, via Wikimedia Commons"
 ---
 
-## IslandoraCon Logo Design Contest
+## Vote for your favourite Logo Design!
 
-Starting today and **closing July 1st**, islandora is issuing an open call for a logo design for the IslandoraCon 2022 t-shirt. The theme of this year’s conference is "Destination: Mothership”, representing a return to the values and approaches that have made our community and software best-in-class!
-
-**→ Send an email to [community@islandora.ca](mailto:community@islandora.ca)** with the subject line: **IslandoraCon Logo Contest** to enter! **Make sure to include the image vector file, and your name in your submission.**
-
-## Submissions
-
-1.
-
-<p align="center"><img src="../assets/images/UFO-Lobster.png" width="450" alt="A UFO is pictured with its rays reaching towards a lobster. IslandoraCon is spelled out above the image, and Prince Edward Island 2022 is written below" /></p>
-
-
-2.
-
-<p align="center"><img src="../assets/images/Space-Lobster.PNG" width="450" alt="A cartoon wide eyed lobster in a spaceship that is taking off" /></p>
-
-
-3.
-
-<p align="center"><img src="../assets/images/Logo_IslandoraCon-Rocketship.png" width="450" alt="A cute green islandora spaceship with eyes is taking off" /></p>
-
-
-4.
-<p align="center"><img src="../assets/images/Logo_Persistence-is-fruitful.png" width="450" alt="The islandoracon logo is shown moving forward, captioned Persistence is fruitful" /></p>
-
-
-5.
-<p align="center"><img src="../assets/images/Logo_IslandoraCONnection.png" width="450" alt="The islandoracon logo is shown underneath a green mothership, captioned IslandoraConNECTION 2022" /></p>
-
-
-### Requirements
-
-* Must be your own design.
-* Maximum file size of 25 MB.
-* Maximum of 3 colours can be used.
-* Your submission must be one of the following file types:
-  * .png, .bmp, .jpg, .jpeg, .tif, .gif, .tiff, .svg, .ai, .eps
-
-Existing islandora image assets such as logos and headers can be found [at this link](https://drive.google.com/drive/folders/1vG1J1szTzbqQrgj9iL8vTy30YCDzd7BD?usp=sharing).
-
-
-## Voting
-
-A poll will be made available to vote for your favourite design! Stay tuned. 
+Please vote for your preferred IslandoraCon logo design in [this google form](https://forms.gle/KdLBx3XhPHBACq3z9)! This poll will close **July 10**. 
