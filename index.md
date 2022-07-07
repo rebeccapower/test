@@ -18,6 +18,11 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
+## IslandoraCon Scholarship
+
+The Islandora Foundation is proud to offer scholarships to attend the virtual portion of IslandoraCon this year for individuals currently in school, or those in financial need. Interested applicants need only to fill out [the google form](https://forms.gle/EwJCXtWcuWoFtMox6) prior to July 18th and will be contacted by July 22nd. 
+
+→ Fill in the IslandoraCon 2022 Scholarship [**here**](https://forms.gle/EwJCXtWcuWoFtMox6).
 
 ## IslandoraCon Programming Committee
 
