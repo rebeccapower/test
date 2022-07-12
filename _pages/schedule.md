@@ -78,6 +78,167 @@ In person stream: **Conference Dinner**
 | 4:00  | **Hackathon Presentations and Farewells**                                                                                                                                |
 
 
-### Saturday 
+## Saturday 
 
 In person stream: **Community Outing**
+
+## Session Descriptions
+
+### August 2
+
+#### Islandora Workshop for Beginners
+
+10:30 - 12:00 and 1:00 - 2:30
+
+Speakers: Rosie Le Faive, Don Richards
+
+#### Developing in Islandora
+
+10:30 - 12:00 and 1:00 - 2:30
+
+Speakers: Seth Shaw, Nigel Banks
+
+#### Service Provider Showcase: Joe Corall, Sole Proprietor LibOps LLC
+
+4:00 - 5:00
+
+Speakers: Joe Corall
+
+Description: Launching the first production Institutional Repository running on Islandora 2 (known as Islandora 8 at the time) for Kent State University Libraries brought many learning opportunities, and that experience helped shape a knew hosting offering for Islandora repositories. In this presentation, see how LibOps has combined the power of Islandora, Pantheon, and Google Cloud to allow your institution to focus on the needs of your repository, and allow LibOps to handle your repository's hosting infrastructure.
+
+### August 3
+
+#### Migration for Content Owners
+
+10:30 - 12:00
+
+Speakers: Dara Virks, Chris Day
+
+#### Migration for Developers and Sysadmins
+
+10:30 - 12:00
+
+Speakers: Alan Stanley, Danny Lamb
+
+Description: This workshop will show how to harvest data from an existing i7 site using Workbench's harvesting tools, how to sanitize and prep that data with custom Python tools, and how to pull that data into a new Islandora 2 site.
+
+#### All things ISLE
+
+1:00 - 2:30
+
+Speakers: Don Richards, Gavin Morris
+
+#### IMLS Grant - Fedora Migration Paths and Tools: a Pilot Project
+
+2:00 - 2:30
+
+Speakers: Arran Griffith, Paige Morfitt 
+
+Description: This panel presentation will share the work done on the IMLS Grant (LG-246264-OLS-20) - Fedora Migration Paths & Tools: A Pilot Project and explore the migration tooling and documentation created to help lower barriers for migrating older Fedora repositories to the newest version - Fedora 6.0. Grant pilot partners will share their involvement in the process as well as their migration stories and lessons learned. We will collaboratively present the grant work process and plans for completing the last phases involving the creation of migration training content.
+
+#### Service Provider Showcase: Born-Digital
+
+3:00 - 4:00
+
+Speakers: Noah Smith
+
+#### Documentation Interest Group Doc-a-thon primer
+
+4:00 - 5:00
+
+Speakers: Yamil Suarez, Mirko Hanke 
+
+Description: The Islandora Documentation Interest Group (DIG) welcomes all, technical and non-developer folks, newbies and veterans, to help build better documentation. Join us for a 1-hour workshop providing the tools for creating and editing documentation.
+
+Tentative agenda:
+* Intro: About DIG
+* Tour of the existing documentation pages
+* Github: how to create an account, how to navigate the documentation repository, how to create issues, how to edit documentation pages
+* Markdown
+* Documentation do's & dont's
+* Slack: How to reach out to developers
+
+### August 4
+
+#### Islandora Lite Update 
+
+10:30 - 11:15
+
+Speakers: Kirsta Stapelfeldt, Natkeeran Ledchumykanthan, Kyle Huynh, Irfan Rahman 
+
+Description: 
+Building on our [presentation in the Summer of 2021](https://www.youtube.com/watch?v=MrIRTtg53wI&ab_channel=IslandoraFoundation) we will demonstrate our new Islandora sites with feature demo and a brief description of the architecture.
+
+#### Stewarding Research Data in Islandora
+
+11:15 - 12:00
+
+Speakers: Kim Mears, Donald Moses, Alexander O’Neill 
+
+Description: 
+An update and overview of UPEI’s evolving Research Data Management framework. We’ll share an update on our work related to our Islandora-based research data management framework and demonstrate integrations with external services, harvest and export options, a data publication workflow, integration of microservices, and review the pending policies in development.
+
+#### Metadata Management in Islandora 
+
+1:00 - 2:30
+
+Speakers: Paige Morfitt, Michelle Janowiecki
+
+#### Microservices and content processing 
+
+1:00 - 2:30
+
+Speakers: Alan Stanley, Kyle Hyunh 
+
+#### Annual General Meeting
+
+3:00 - 5:00
+
+Register for a Zoom and calendar invite [here](https://us02web.zoom.us/meeting/register/tZEsdO-qrj8iGtw5vYfB8mFXLNWXxmMr7VlO)! 
+
+### August 5
+
+#### Managing Metadata for Migrations: What we wrapped up at Whitman
+
+10:30 - 11:00
+
+Speakers: Paige Morfitt
+
+Description: In preparation for our migration from Islandora 7 to Islandora 8 we at Whitman underwent a rigorous clean-up project on our metadata to ready it for our new repository. This presentation will showcase the work we underwent as an institution to gather, assess, clean, and migrate our metadata. This presentation will be of interest to anyone who is interested in cleaning their metadata. 
+
+#### Integrating machine learning-based image entity extraction into Islandora
+
+10:30 - 11:00
+
+Speakers: Alexander O’Neill
+
+Description: In 2020, the Library of Congress announced the Newspaper Navigator project, the work of their Innovator in Residence, Ben Lee. It employs machine learning to extract entities like maps, cartoons, headlines and ads from newspaper archives. In 2021, we worked with a team of 4th year computer science students at UPEI to adapt this technique to work with our large Islandora-hosted newspaper archive, Island Newspapers. The team was able to use the existing training data on our content, but built a whole new image processing pipeline, and an Islandora 7 solution pack to automatically extract entities from new and existing page images.
+
+#### The Next Generation: New Instances of Islandora
+
+11:00 - 12:00
+
+Speakers: Julia Corrin, Kathryn (Katie) Gucer, Seth Shaw
+
+Description: Since Islandora was released in June 2019 – and especially in the last year – new fully developed instances of this uniquely flexible and sustainable open source digital asset management system have emerged on the public web. The latter include Carnegie Mellon University’s Digital Collections (digitalcollections.library.cmu.edu), Johns Hopkins University’s Hopkins Digital Library (digital.library.jhu.edu), and the UNLV Special Collections and Archives Portal (special.library.unlv.edu). The three presenters from these institutions will each introduce their new instance of Islandora with an eye toward the technical, sociotechnical, and organizational issues of particular interest to the Islandora community gathered IslandoraCon 2022. 
+
+#### Using Islandora to implement your preservation plan
+
+1:00 - 2:30
+
+Speakers: Mark Jordan
+
+Description: Islandora offers a number of features that can support an institution's digital preservation strategy and plans. This workshop will introduce those features, provide some hands-on exercises, and encourage participants' discussion of using Islandora for digital preservation.
+
+#### Presentation TBD (AWS and Islandora)
+
+3:00 - 3:30
+
+Speakers: Luke Taylor
+
+#### Service Provider Showcase: Discoverygarden
+
+3:30 - 4:00
+
+Speakers: Morgan Dawe
+
