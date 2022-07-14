@@ -114,6 +114,8 @@ Description: Launching the first production Institutional Repository running on 
 
 Speakers: Dara Virks, Chris Day
 
+Description: This workshop will cover things to think about before and during your migration into Islandora 2.0, including a look at two of the main migration tools: FOXML and Workbench. The conversation will be geared towards content creators, rather than developers.
+
 #### Migration for Developers and Sysadmins
 
 10:30 - 12:00
@@ -184,11 +186,15 @@ An update and overview of UPEI’s evolving Research Data Management framework. 
 
 Speakers: Paige Morfitt, Michelle Janowiecki
 
+Description: This workshop will talk about metadata management in Islandora. From pre-to post ingest, we will share tools to help organize and clean your metadata for Islandora.
+
 #### Microservices and content processing 
 
 1:00 - 2:30
 
 Speakers: Alan Stanley, Kyle Hyunh 
+
+Description: At Digital Scholarship Unit of UTSC, we developed an approach to run microservices jobs inside Drupal (with PHP) instead of Java applications (Apache Karaf). [Advanced Queue](https://www.drupal.org/project/advancedqueue) provides a user interface for jobs can be queued, managed (start, stop, delete) and monitored (error message) within a Drupal site. To improve our workflow with Advanced Queue, the [Advanced Queue Runner module](https://www.drupal.org/project/advancedqueue_runner) is developed to “daemonize” the Advanced Queue, so it can be run automatically in the background instead of triggering it manually by Cron or Drush command. We have currently implemented Triplestore indexing and Fits by using this approach.
 
 #### Annual General Meeting
 
