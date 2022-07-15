@@ -98,6 +98,8 @@ Speakers: Rosie Le Faive, Don Richards
 
 Speakers: Seth Shaw, Nigel Banks
 
+Description: This workshop will provide a broad overview of islandora architecture, debugging tips (where are things logged and what to look for), and where and how to contribute code changes.
+
 #### Service Provider Showcase: Joe Corall, Sole Proprietor LibOps LLC
 
 4:00 - 5:00
@@ -129,6 +131,61 @@ Description: This workshop will show how to harvest data from an existing i7 sit
 1:00 - 2:30
 
 Speakers: Don Richards, Gavin Morris
+
+#### Querying your repo with Islandora Repository Reports
+
+Lightning Talks session: 1:00 - 2:00
+
+Speaker: Mark Jordan
+
+Description: Islandora Repository Reports is a Drupal module that provides repository admins with visualizations describing their Islandora. It comes with 10 core reports and another 8 optional reports, and is easily extensible.
+
+#### Introduction to Slack for Islandorians
+
+Lightning Talks session: 1:00 - 2:00
+
+Speaker: Yamil Suarez
+
+Description: I will introduce the basics of using Slack to a less tech savvy audience.
+Here are some of the topics I want to cover:
+1) How to request Slack access through the community access form
+2) How to browse and use the Islandora community Slack channels
+3) How to write and reply to messages 
+4) How to search Slack
+5) Propose a Slack practice time a week or so after the conference for newcomers to try out using Slack during a Zoom meeting to get a chance to practice using Slack together.
+
+#### How to create a GitHub account & How to submit issues
+
+Lightning Talks session: 1:00 - 2:00
+
+Speaker: Yamil Suarez
+
+Description: I will be explaining the process for creating a free Github account, which has a lot more steps that you would imaging in 2022. Then I would explain how this account can be used for contributing to the Islandora community. Then I would demonstrate how to submit an issue to the documentation repo. 
+I have done a longer version of this at a Open Meeting earlier this year. [Here](https://docs.google.com/presentation/d/1Tz5gZVDFnzA9TUYfozTyRBzOQu7DvZ3_khE8-Wl0EPY/edit#slide=id.p) is a copy of that version for reference.
+
+#### A walkthrough of the new Simon Fraser University (SFU) Institutional Repository (IR) – Summit
+
+Lightning Talks session: 1:00 - 2:00
+
+Speakers: Janice Banser, Mark Jordan
+
+Description: SFU Library will demo the recent upgrade of their IR from Drupal 6 to Islandora 2.0. Improvements include faceted search results, name authorities, and integration with external services such as OpenAire and Matomo for statistics generation.
+
+#### Herbarium Samples in Islandora
+
+Lightning Talks session: 1:00 - 2:00
+
+Speaker: Donald Moses
+
+Description: Paul Pound, a longtime Islandora developer at UPEI, migrated UPEI's Digital Herbarium, a Drupal 6 based Islandora site, to the latest version of Islandora and introduced new functionality. The talk will provide an overview of the content type and a brief demo of the site. 
+
+#### Migration and Quality Control for Repository Managers
+
+Lightning Talks session: 1:00 - 2:00
+
+Speaker: Amy Blau
+
+Description: In this lightning talk I give an overview of quality control for repository managers in a migration setting, and offer some tips and lessons learned.
 
 #### IMLS Grant - Fedora Migration Paths and Tools: a Pilot Project
 
