@@ -234,8 +234,7 @@ Building on our [presentation in the Summer of 2021](https://www.youtube.com/wat
 
 Speakers: Kim Mears, Donald Moses, Alexander O’Neill 
 
-Description: 
-An update and overview of UPEI’s evolving Research Data Management framework. We’ll share an update on our work related to our Islandora-based research data management framework and demonstrate integrations with external services, harvest and export options, a data publication workflow, integration of microservices, and review the pending policies in development.
+Description: An update and overview of UPEI’s evolving Research Data Management framework. We’ll share an update on our work related to our Islandora-based research data management framework and demonstrate integrations with external services, harvest and export options, a data publication workflow, integration of microservices, and review the pending policies in development.
 
 #### Metadata Management in Islandora 
 
@@ -283,7 +282,7 @@ Description: In 2020, the Library of Congress announced the Newspaper Navigator 
 
 Speakers: Julia Corrin, Kathryn (Katie) Gucer, Seth Shaw
 
-Description: Since Islandora was released in June 2019 – and especially in the last year – new fully developed instances of this uniquely flexible and sustainable open source digital asset management system have emerged on the public web. The latter include Carnegie Mellon University’s Digital Collections (digitalcollections.library.cmu.edu), Johns Hopkins University’s Hopkins Digital Library (digital.library.jhu.edu), and the UNLV Special Collections and Archives Portal (special.library.unlv.edu). The three presenters from these institutions will each introduce their new instance of Islandora with an eye toward the technical, sociotechnical, and organizational issues of particular interest to the Islandora community gathered IslandoraCon 2022. 
+Description: Since Islandora was released in June 2019 – and especially in the last year – new fully developed instances of this uniquely flexible and sustainable open source digital asset management system have emerged on the public web. The latter include [Carnegie Mellon University’s Digital Collections](digitalcollections.library.cmu.edu), [Johns Hopkins University’s Hopkins Digital Library](digital.library.jhu.edu), and the [UNLV Special Collections and Archives Portal](special.library.unlv.edu). The three presenters from these institutions will each introduce their new instance of Islandora with an eye toward the technical, sociotechnical, and organizational issues of particular interest to the Islandora community gathered IslandoraCon 2022. 
 
 #### Using Islandora to implement your preservation plan
 
