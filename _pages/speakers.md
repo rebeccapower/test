@@ -10,6 +10,18 @@ header:
 
 # Speakers
 
+## Nigel Banks
+
+Nigel Banks has been working on and off in the Islandora community for over ten years. Currently as a freelance developer. He is deeply involved in open source software, having contributed to well over 100 Git repositories in 15 different programming languages. He now resides in Manchester, United Kingdom.
+
+## Joe Corall
+
+Joe Corall is currently employed by [Pantheon](https://pantheon.io/) as a Staff Software Engineer on their Platform Orchestration and Services team. In January 2020 while at [Kent State University Libraries](https://oaks.kent.edu/) he led the development to launch Kent State's Institutional Repository running on Islandora 2. In his spare time he has been creating an Islandora as a Service solution.
+
+## Dara Virks
+
+Dara is the Project Manager Lead at Born-Digital. Prior to that she produced Drupal websites for 4 years. She has a background as a newspaper editor, and is passionate about history. She holds a master's of science in information technologies from Marlboro College.
+
 ## Alan Stanley
 
 Alan is an Islandora contractor who has been working with the stack since 2010 - the days of Drupal 6.  His contributions include many of 
@@ -20,6 +32,9 @@ the original solution packs, work with Digital Humanities, a couple of microserv
 Mark Jordan is Associate Dean of Libraries for Digital Strategy at Simon Fraser University, and a long-time contributor 
 to the Islandora platform and community. Currently he is spending most of his free time developing and supporting Islandora Workbench. 
 He's also currently the Chair of the Islandora Foundation Board of Directors.
+
+## Yamil Suárez 
+Yamil Suárez is the Associate Director of Library Systems & Web Development at Berklee College of Music in Boston, Massachusetts (USA). Yamil has a bachelor’s degree of music in Music Education from Berklee College, and a master’s degree in Computer Science from Boston University. Berklee College is currently running ISLE7 and working on a migration to use ISLE2. He is also a co-convener of the Islandora community Documentation Interest Group (DIG).
 
 ## Arran Griffith
 
