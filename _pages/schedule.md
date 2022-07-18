@@ -44,8 +44,10 @@ The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert
 | 2:00  | **Presentation: [IMLS Grant - Fedora Migration Paths and Tools: a Pilot Project](#imls-grant---fedora-migration-paths-and-tools-a-pilot-project)<br>2:00 - 2:30**<br>Arran Griffith (_presenting virtually_), Paige Morfitt (_presenting in person_)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 2:30  | **Afternoon Break**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 3:00  | **[Service Provider Showcase: Born-Digital](#service-provider-showcase-born-digital)<br>3:00 - 4:00**<br>Noah Smith<br>_- presentation delivery to be announced_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|       | **Metadata Interest Group Meeting<br>3:00 - 4:00**<br>MIG<br>_- in person and over Zoom_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 4:00  | **Workshop: [Documentation Interest Group Doc-a-thon primer](#documentation-interest-group-doc-a-thon-primer)<br>4:00 - 5:00**<br>Yamil Suarez, Mirko Hanke <br>_- presenting virtually_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
+In person stream: **Use-a-Thon Pizza Night** (6:30 - 9:30) at Robertson Library Upper Level
 
 
 
@@ -60,7 +62,8 @@ The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert
 | 2:30  | **Afternoon Break**                                                                                                                                               |
 | 3:00  | **[Annual General Meeting](#annual-general-meeting)<br>3:00 - 5:00**                                                                                                                         |
 
-In person stream: **Conference Dinner**
+In person stream: **Conference Dinner** (6:00 - 9:00) at Lobster on the Wharf
+
 
 
 
@@ -73,7 +76,7 @@ In person stream: **Conference Dinner**
 | 12:00 | **Lunch**                                                                                                                                                                |
 | 1:00  | **Workshop: [Using Islandora to implement your preservation plan](#using-islandora-to-implement-your-preservation-plan)<br>1:00 - 2:30**<br>Mark Jordan<br>_- presenting virtually_                                              |
 | 2:30  | **Afternoon Break**                                                                                                                                                      |
-| 3:00  | **Presentation TBD<br>3:00 - 3:30**<br>Luke Taylor<br>_- presentation delivery to be announced_                                                       |
+| 3:00  | **AWS and Islandora<br>3:00 - 3:30**<br>Luke Taylor<br>_- presentation delivery to be announced_                                                       |
 | 3:30  | **Service Provider Showcase: [Discoverygarden](#service-provider-showcase-discoverygarden)<br>3:30 - 4:00**<br>Morgan Dawe<br>_- presentation delivery to be announced_                                                |
 | 4:00  | **Hackathon Presentations and Farewells**                                                                                                                                |
 
