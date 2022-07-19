@@ -76,7 +76,7 @@ In person stream: **Conference Dinner** (6:00 - 9:00) at Lobster on the Wharf
 | 12:00 | **Lunch**                                                                                                                                                                |
 | 1:00  | **Workshop: [Using Islandora to implement your preservation plan](#using-islandora-to-implement-your-preservation-plan)<br>1:00 - 2:30**<br>Mark Jordan<br>_- presenting virtually_                                              |
 | 2:30  | **Afternoon Break**                                                                                                                                                      |
-| 3:00  | **AWS and Islandora<br>3:00 - 3:30**<br>Luke Taylor<br>_- presentation delivery to be announced_                                                       |
+| 3:00  | **[AWS and Islandora](#aws-and-islandora)<br>3:00 - 3:30**<br>Luke Taylor<br>_- presentation delivery to be announced_                                                       |
 | 3:30  | **Service Provider Showcase: [Discoverygarden](#service-provider-showcase-discoverygarden)<br>3:30 - 4:00**<br>Morgan Dawe<br>_- presentation delivery to be announced_                                                |
 | 4:00  | **Hackathon Presentations and Farewells**                                                                                                                                |
 
@@ -134,6 +134,8 @@ Description: This workshop will show how to harvest data from an existing i7 sit
 1:00 - 2:30
 
 Speakers: Don Richards, Gavin Morris
+
+Description: This workshop will provide a general overview of the ISLE build commands and what they do, with a Q&A period. ISLE being installed is not necessary for this workshop.
 
 #### Querying your repo with Islandora Repository Reports
 
@@ -295,11 +297,13 @@ Speakers: Mark Jordan
 
 Description: Islandora offers a number of features that can support an institution's digital preservation strategy and plans. This workshop will introduce those features, provide some hands-on exercises, and encourage participants' discussion of using Islandora for digital preservation.
 
-#### Presentation TBD (AWS and Islandora)
+#### AWS and Islandora
 
 3:00 - 3:30
 
 Speakers: Luke Taylor
+
+Description: A walk through some of the AWS services and features that Discoverygarden uses to host Islandora.
 
 #### Service Provider Showcase: Discoverygarden
 
