@@ -18,21 +18,24 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
-## IslandoraCon Scholarship
+## IslandoraCon Scholarship Awardees
 
-The Islandora Foundation is proud to offer scholarships to attend the virtual portion of IslandoraCon this year for individuals currently in school, or those in financial need. Interested applicants need only to fill out [the google form](https://forms.gle/EwJCXtWcuWoFtMox6) prior to July 18th and will be contacted by July 22nd. 
+The Islandora Foundation is proud to offer scholarships to attend the virtual portion of IslandoraCon this year for individuals currently in school, or those in financial need. We are excited to announce our Scholarship Awardees for IslandoraCon 2022!
 
-→ Fill in the IslandoraCon 2022 Scholarship [**here**](https://forms.gle/EwJCXtWcuWoFtMox6).
-
-## IslandoraCon Programming Committee
-
-**Are you interested in joining the conference program planning committee?** The upcoming meeting dates and registration for Zoom details can be accessed [using this link](https://us02web.zoom.us/meeting/register/tZElfu2hqTorGNYDda4sqCQyeSPLUbsCd-E9). Meetings take place **every other Tuesday, from 2:00 - 3:00 pm EST**.
-
-**If you would like to join the program committee, but can’t make this time,** please [write to Donald Moses](mailto:dmoses@upei.ca). 
-
-**Have you been to a hybrid event you thought went really well?** 
-Is there an event you want to see at IslandoraCon 2022? If you have other feedback please feel free to send it to [Donald](mailto:dmoses@upei.ca), or to [community@islandora.ca](mailto:community@islandora.ca). In the meantime, keep an eye out for additional information (including a call for proposals) as our plans evolve.
+* Shriram Saravanan (University of Prince Edward Island)
+* Roger Noguera (UCA)
+* Melissa Caines (Langara College)
+* Dandi Wang (University of Alberta)
+* Ruby Lindsay (University of British Columbia)
+* Vivian Poon (University of Alberta)
+* Miki Zwarich (University of Alberta)
+* Michael Fagbohun (University of British Columbia)
+* Oluchi Okere (Federal College of Education Special Oyo)
 
 ## Our Sponsors
 
-<p align="center"><img src="assets/images/born-digital-logo.png" alt="Born-Digital logo" /></p>
+<p align="center"><a href="https://www.born-digital.com/"><img src="assets/images/born-digital-logo.png" alt="Born-Digital logo" /></a></p>
+
+
+
+<p align="center"><a href="https://www.discoverygarden.ca/"><img src="assets/images/discoverygarden-logo.png" alt="Discoverygarden logo" width=500 /></a></p>
