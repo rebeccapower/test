@@ -16,9 +16,14 @@ Both non-developer (ex. Librarian, Collection Administrator) and technical (ex. 
 
 The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert the start time on August 2, as well as any times you like [at this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IslandoraCon&iso=20220802T0930&p1=753). 
 
+| Time  | Monday, August 1                                                                                                                 |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 2:30 <br>- 4:30  | Registration Desk open - Location TBA                                                                                                                           |
+
 
 | Time  | Session(s) - Tuesday, August 2                                                                                                                 |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 8:30  | Registration Desk open - Location TBA                                                                                                                           |
 | 9:30  | **Welcome**                                                                                                                           |
 | 10:00 | **Introductions and Icebreakers**                                                                                                     |
 | 10:30 | **Workshop: [Islandora Workshop for Beginners](#islandora-workshop-for-beginners) pt. 1 <br>10:30-12:00**<br>Rosie LeFaive, Don Richards <br>_- presenting in person_ |
@@ -62,7 +67,7 @@ In person stream: **Use-a-Thon Pizza Night** (6:30 - 9:30) at Robertson Library 
 | 2:30  | **Afternoon Break**                                                                                                                                               |
 | 3:00  | **[Annual General Meeting](#annual-general-meeting)<br>3:00 - 5:00**                                                                                                                         |
 
-In person stream: **Conference Dinner** (6:00 - 9:00) at Lobster on the Wharf
+In person stream: **Conference Dinner** (6:00 - 9:00) at [Lobster on the Wharf](https://www.lobsteronthewharf.com)
 
 
 
@@ -83,7 +88,7 @@ In person stream: **Conference Dinner** (6:00 - 9:00) at Lobster on the Wharf
 
 ## Saturday 
 
-In person stream: **Community Outing**
+In person stream: **Choose Your Own Adventure** 🌤️
 
 ## Session Descriptions
 
