@@ -100,6 +100,14 @@ In person stream: **Choose Your Own Adventure** 🌤️
 
 Speakers: Rosie Le Faive, Don Richards
 
+Description: Workshop for front-end users of Islandora. Will cover the basics of creating content and managing a repository based on the current islandora sandbox. Will cover:
+* Creating Islandora content (nodes and media) in the sandbox
+* Managing content types
+* Special field types
+* Managing your solr search and facets
+* Managing derivatives
+* Accessing your content in Fedora and Blazegraph (Linked data!)
+
 #### Developing in Islandora
 
 10:30 - 12:00 and 1:00 - 2:30
@@ -260,7 +268,8 @@ Description: This workshop will talk about metadata management in Islandora. Fro
 
 Speakers: Alan Stanley, Kyle Hyunh 
 
-Description: At Digital Scholarship Unit of UTSC, we developed an approach to run microservices jobs inside Drupal (with PHP) instead of Java applications (Apache Karaf). [Advanced Queue](https://www.drupal.org/project/advancedqueue) provides a user interface for jobs can be queued, managed (start, stop, delete) and monitored (error message) within a Drupal site. To improve our workflow with Advanced Queue, the [Advanced Queue Runner module](https://www.drupal.org/project/advancedqueue_runner) is developed to “daemonize” the Advanced Queue, so it can be run automatically in the background instead of triggering it manually by Cron or Drush command. We have currently implemented Triplestore indexing and Fits by using this approach.
+Description: This session will describe the microservices workflow - how to write and implement an external microservice for your Islandora installation, including writing and configuring the Contexts that drive them.
+At Digital Scholarship Unit of UTSC, we developed an approach to run microservices jobs inside Drupal (with PHP) instead of Java applications (Apache Karaf). [Advanced Queue](https://www.drupal.org/project/advancedqueue) provides a user interface for jobs can be queued, managed (start, stop, delete) and monitored (error message) within a Drupal site. To improve our workflow with Advanced Queue, the [Advanced Queue Runner module](https://www.drupal.org/project/advancedqueue_runner) is developed to “daemonize” the Advanced Queue, so it can be run automatically in the background instead of triggering it manually by Cron or Drush command. We have currently implemented Triplestore indexing and Fits by using this approach.
 
 #### Annual General Meeting
 
