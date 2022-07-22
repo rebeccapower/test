@@ -24,7 +24,7 @@ The latest version of Islandora is tightly integrated with Drupal, and very flex
 
 Is there something you want to learn how to do? Something you’ve been eager to understand how to do? [Propose your idea for the Use-a-thon](https://docs.google.com/document/d/1Sw0CiOF_yavYgAs2XysK25D9_Ccc5798QskM_figf6o/edit?usp=sharing) or sign up for an existing idea!
 
-### 2: Meet with your team on August 3rd.
+### 2: Meet with your team!
 
 As per the final schedule, Use-a-Thon projects will be introduced Tuesday, August 2nd, from 3:00 - 4:00 p.m. 
 
