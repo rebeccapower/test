@@ -14,8 +14,6 @@ header:
 
 Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5th, 2022** in beautiful Charlottetown PEI, as well as streaming on Zoom for remote attendees. View the schedule for IslandoraCon [here](https://2022.islandora.ca/schedule/).
 
-→ Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-tickets-313517187347) to attend **in person**.
-
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
 ## IslandoraCon Scholarship Awardees
@@ -36,6 +34,8 @@ The Islandora Foundation is proud to offer scholarships to attend the virtual po
 
 <p align="center"><a href="https://www.born-digital.com/"><img src="assets/images/born-digital-logo.png" alt="Born-Digital logo" /></a></p>
 
-
+<p align="center"><a href="https://www.upei.ca/"><img src="https://files.upei.ca/misc/upeishield.svg" alt="UPEI logo" width=750 /></a></p>
 
 <p align="center"><a href="https://www.discoverygarden.ca/"><img src="assets/images/discoverygarden-logo.png" alt="Discoverygarden logo" width=500 /></a></p>
+
+
