@@ -10,9 +10,13 @@ header:
 
 # Speakers
 
+## Don Richards
+
+Don Richards has worked in academia since 2001 and has been an active developer within the Islandora community for over 7 years. Don has worked for multiple vendors and multiple universities, developing solutions for digital repositories, faculty submission portals, and institutional repository solutions. He is the IR interest Group maintainer and a maintainer and committer for several community repositories.
+
 ## Nigel Banks
 
-Nigel Banks has been working on and off in the Islandora community for over ten years. Currently as a freelance developer. He is deeply involved in open source software, having contributed to well over 100 Git repositories in 15 different programming languages. He now resides in Manchester, United Kingdom.
+Nigel Banks has been working on and off in the Islandora community for over ten years, and works currently as a freelance developer. He is deeply involved in open source software, having contributed to well over 100 Git repositories in 15 different programming languages. He now resides in Manchester, United Kingdom.
 
 ## Joe Corall
 
@@ -21,6 +25,10 @@ Joe Corall is currently employed by [Pantheon](https://pantheon.io/) as a Staff 
 ## Dara Virks
 
 Dara is the Project Manager Lead at Born-Digital. Prior to that she produced Drupal websites for 4 years. She has a background as a newspaper editor, and is passionate about history. She holds a master's of science in information technologies from Marlboro College.
+
+## Chris Day
+
+Chris Day is the Metadata Librarian at discoverygarden. Prior to starting this position at the beginning of the year he spent that past fifteen years as a Metadata and Digital Projects Librarian at academic institutions in the United States. Most recently he was the Digital Services Librarian at the School of the Art Institute of Chicago where he managed the Flaxman Library’s Islandora collection SAIC Digital Collections. In that time he migrated the collection from CONTENTdm to Islandora 7 and completed the first half of a migration to Islandora 2.0.
 
 ## Alan Stanley
 
@@ -55,3 +63,7 @@ Find her at twitter at @michellejano.
 ## Luke Taylor
 
 [Luke Taylor](https://www.linkedin.com/in/luke-taylor-9008a718b) is the Chief Technology Officer of Discoverygarden has been with the company since 2012. He has almost twenty years of experience in systems administration and  IT operations. Luke carries a number of [AWS certifications](https://www.credly.com/users/luke-taylor.312ab643/badges) and is Discoverygarden’s primary infrastructure architect. He is also currently an active member of the Islandora Leadership Group. Currently resides in Charlottetown, Prince Edward Island.
+
+## Morgan Dawe
+
+Morgan Dawe is a Senior Developer at discoverygarden, with 9 years of experience working with islandora helping hundreds of organizations incorporate it. Primary focus over the last few years has been on front end development, working to provide rich, content driven experiences in Islandora & Drupal.
