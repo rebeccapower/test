@@ -86,7 +86,7 @@ In person stream: **Conference Dinner** (6:00 - 9:00) at [Lobster on the Wharf](
 
 ## Saturday 
 
-In person stream: **Choose Your Own Adventure** 🌤️
+In person stream: **[Choose Your Own Adventure](https://2022.islandora.ca/saturday/)** 🌤️
 
 ## Session Descriptions
 

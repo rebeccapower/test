@@ -1,6 +1,6 @@
 ---
 permalink: /sponsorship/
-title: "Sponsorship Information"
+title: "Sponsors"
 layout: splash
 header:
   overlay_image: "../assets/images/Schedule-Banner.png"
@@ -8,37 +8,18 @@ header:
   caption: "Photo: Martin Cathrae from Charlottetown, PE, Canada, CC BY-SA 2.0, via Wikimedia Commons"
 ---
 
-## Islandoracon 2022: Sponsorship Levels and Benefits
+## Our Sponsors
 
-Information on sponsorship options for IslandoraCon are available here. If you have a sponsorship request we would be pleased to hear from you at [community@islandora.ca](mailto:community@islandora.ca)! 
+A huge thank you to our sponsors for making IslandoraCon 2022 possible!
 
-### Platinum Level Sponsors - $3,000
+### Platinum Level Sponsors 
 
-* Large logo on conference website homepage
-* Slide provided on mobile display panel and during virtual session transitions
-* Exhibit table and access to meeting room (6 chairs, large table, 2 white boards, screen)
-* Mentioned during opening and closing address
-* Ability to put materials into registration packets
-* 10 minute presentation at a social event/reception
+<p align="center"><a href="https://www.born-digital.com/"><img src="assets/images/born-digital-logo.png" alt="Born-Digital logo" /></a></p>
 
-### Gold Level Sponsors – $2,000 
+<p align="center"><a href="https://www.upei.ca/"><img src="https://files.upei.ca/misc/upeishield.svg" alt="UPEI logo" width=750 /></a></p>
 
-* Medium logo on program and conference website
-* Slide provided on mobile display panel and shared slide during virtual session transitions
-* Mentioned during opening and closing address
+### Gold Level Sponsors 
 
-### Silver Level Sponsors – $1,000 
+<p align="center"><a href="https://www.discoverygarden.ca/"><img src="assets/images/discoverygarden-logo.png" alt="Discoverygarden logo" width=500 /></a></p>
 
-* Small logo on program and conference website
-* Slide provided on mobile display panel
-
-### Bronze Level Sponsors – $500
-
-* Logo on program and website
-* Shared slide provided on mobile display panel
-
-
-### Event Sponsorship
-
-Sponsorship is also available for the conference dinner, after conference social events, and coffee breaks. If this option is selected, prominent signage and an announcement at the event will showcase the sponsor. All sponsorships will be listed in the onsite program agenda next to the sponsored event. Additional details can be provided to those potential sponsors interested in this option.
 
