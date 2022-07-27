@@ -14,6 +14,10 @@ header:
 
 Donald Moses is the University Librarian at UPEI and has a deep interest in the transformative impact of open-source software and its application in the library context.
 
+##  Rosie Le Faive 
+
+Rosie Le Faive has been a librarian at UPEI since 2014, and working with Islandora for a few years before that. They have been involved with the Metadata Interest Group for the last few years and likes to ask the annoying questions. 
+
 ## Don Richards
 
 Don Richards has worked in academia since 2001 and has been an active developer within the Islandora community for over 7 years. Don has worked for multiple vendors and multiple universities, developing solutions for digital repositories, faculty submission portals, and institutional repository solutions. He is the IR interest Group maintainer and a maintainer and committer for several community repositories.

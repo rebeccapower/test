@@ -1,5 +1,5 @@
 ---
-permalink: /help/
+permalink: /conduct/
 title: "Code of Conduct Volunteers"
 layout: splash
 header:
