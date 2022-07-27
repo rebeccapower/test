@@ -10,6 +10,10 @@ header:
 
 # Speakers
 
+## Donald Moses
+
+Donald Moses is the University Librarian at UPEI and has a deep interest in the transformative impact of open-source software and its application in the library context.
+
 ## Don Richards
 
 Don Richards has worked in academia since 2001 and has been an active developer within the Islandora community for over 7 years. Don has worked for multiple vendors and multiple universities, developing solutions for digital repositories, faculty submission portals, and institutional repository solutions. He is the IR interest Group maintainer and a maintainer and committer for several community repositories.
@@ -53,6 +57,15 @@ Janice Banser is the Digital & Web Services Librarian at Simon Fraser University
 Arran Griffith is the Program Manager at Fedora. She is responsible for guiding the overall direction of the Fedora program and community 
 by collaboratively working with stakeholders and community members to engage users, pursue outreach and advocate for adoption. She 
 originally started with Fedora in 2020 as the Community Engagement Coordinator and transitioned in to this role in May 2022. 
+
+## Paige Morfitt
+
+Paige (she/her) is the Digital Assets and Metadata librarian at Whitman College. Prior to that, she was a fresh-faced MLIS graduate working as a Library Assistant-Cataloger at Whitman. While working with MARC, she discovered the love of spreadsheets and cleaning messy metadata. She earned her MLIS at the University of Pittsburgh, and BA at Oregon State. Paige is also a co-convener for the Islandora Metadata Interest Group (MIG) which meets every other Monday. 
+
+## Mirko Hanke
+
+Mirko Hanke (he/him/his) is the Head of Preservation & Digital Stewardship at the University of Texas Libraries in Austin. He is currently working with the Libraries’ IT to migrate an Islandora 7-based Digital Asset Management System to the next generation of Islandora. He serves the Islandora community as a co-convener of the Documentation Interest Group (DIG).
+
 
 ## Michelle Janowiecki
 
