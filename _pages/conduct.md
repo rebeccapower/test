@@ -10,7 +10,7 @@ header:
 
 # Code of Conduct Volunteers
 
-The IslandoraCon Code of Conduct volunteers are a group of individuals supporting others in the Islandora community. CoC volunteers handle concerns raised through the CoC violation form, and the [List of CoC Volunteers](#list-of-coc-volunteers) below details those who are available during shifts at IslandoraCon to be available on-call to respond to of disrespectful behaviour and engage in discussions with community members. For more information, see the [Help](#help) section below.
+The IslandoraCon Code of Conduct volunteers are a group of individuals supporting others in the Islandora community. CoC volunteers handle concerns raised through the CoC violation form, and the [List of CoC Volunteers](#list-of-coc-volunteers) below details those who are available during shifts at IslandoraCon to help ensure that IslandoraCon spaces are safe and welcoming, and to provide guidance in reporting Code of Conduct violations. For more information, see the [Help](#help) section below.
 
 ## List of CoC Volunteers
 

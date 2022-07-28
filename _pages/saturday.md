@@ -23,9 +23,17 @@ During the day, conference attendees are welcomed to a small walk to see some Ch
   * Visit the [Brighton Beach Range Front and Lighthouse](https://www.lighthousefriends.com/light.asp?ID=965).
   * Stop by the [Beaconsfield Historic House](https://www.peimuseum.ca/visit/beaconsfield-historic-house).
 
-## Evening - Choose your own Adventure!
+## Choose your own Adventure!
 
 Please see the links below for some suggestions of what to see, eat, drink, and do in PEI, gathered from our Programming Committee and conference organizers:
+
+* The [Island Walk](https://theislandwalk.ca/) and [Map](https://theislandwalk.ca/island-walk-map/)
+
+* Discover Charlottetown: [Things to Do](https://www.discovercharlottetown.com/things-to-do/)
+
+* [Green Gables Heritage Place](https://www.pc.gc.ca/en/lhn-nhs/pe/greengables)
+
+* [PEI Local Food Map](http://www.foodexchangepei.com/island-food-map.html)
 
 * [Winery, Cideries, and Breweries near Charlottetown](https://uploads.knightlab.com/storymapjs/38494d593d97599e435e13b48bd4ef82/islandoracon-adventure-1-beverage-discovery/index.html)
 
