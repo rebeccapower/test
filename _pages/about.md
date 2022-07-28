@@ -16,36 +16,25 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
+## Venue
+
+<p align="center"><img src="../assets/images/UPEI_Map.png" alt="UPEI Campus Map" /></p>
+
+<p align="center"><img src="../assets/images/FSDE_Map.png" alt="Faculty of Sustainable Design Engineering Building Map" /></p>
+
+Faculty of Sustainable Design Engineering Building
+
+* Registration Desk will be located just outside 128A/B
+* Shared sessions will be in 128A
+* User-focused sessions will take place in 128A
+* Developer-focused sessions will take place in 128B
+
+
 ## Accommodations
 
 ### Off campus 🏨
 
 Beautiful Prince Edward Island offers a wide variety of accomodation options. Information on places to stay, such as cottages, hotels, inns, and home rentals, are available on the Tourism PEI website. [Click here to view these listings](https://www.tourismpei.com/where-to-stay).
-
-### On campus 🏫
-
-On-campus accommodation at UPEI is available to conference attendees and participants, within the [Andrew Hall building](https://goo.gl/maps/fbqVWzPmPgLDsxst7).
-Andrew Hall is the university's newest residence. Rooms are in single, double, and triple suite configurations and all have private bedrooms. For example, a double suite has two private bedrooms with a double bed in each. All suites have a seating area, private bathroom, telephone, TV, mini fridge and microwave. 
-
-**Nightly rate**: $108.00 (+ applicable taxes)
-
-#### How to book on campus accommodations
-
-You can book online by **phone, email, or by** [**using the form linked here**](https://www.upei.ca/conference/summer-visitors). 
-
-&#8594; **If booking using the** [**online form**](https://www.upei.ca/conference/summer-visitors): 
-
-  1. Indicate that you are requesting a reservation as a Conference Delegate.
-  1. A new field will appear. Here, indicate there that you are attending IslandoraCon. 
-  2. Under Type of room requested, select from the Andrew Hall accommodation options.
-
-&#8594; **If booking using the email** [**conference@upei.ca**](mailto:conference@upei.ca):
-  * Include IslandoraCon in the subject line.
-  * In your email, please provide: your name, address, telephone number, dates of your stay, and type of room.
-
-&#8594; **If booking over the** [**phone (902-566-0952)**](tel:9025660952): 
-  * Indicate that you are attending IslandoraCon.
-  * You will be asked for information including your name, address, telephone number, dates of your stay, and type of room.
 
 ## Getting to PEI
 
