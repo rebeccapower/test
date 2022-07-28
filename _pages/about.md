@@ -12,8 +12,6 @@ header:
 
 Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5th, 2022** in beautiful Charlottetown PEI, as well as streaming on Zoom for remote attendees. View the preliminary schedule for IslandoraCon [here](https://2022.islandora.ca/schedule/). For more information on islandora, [visit our website](https://www.islandora.ca/).
 
-→ Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-tickets-313517187347) to attend **in person**.
-
 → Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
 
 ## Venue
@@ -35,6 +33,10 @@ Faculty of Sustainable Design Engineering Building
 ### Off campus 🏨
 
 Beautiful Prince Edward Island offers a wide variety of accomodation options. Information on places to stay, such as cottages, hotels, inns, and home rentals, are available on the Tourism PEI website. [Click here to view these listings](https://www.tourismpei.com/where-to-stay).
+
+## COVID Safety at UPEI
+
+As of June 22, 2022, masking protocols at UPEI shifted [from mandatory to strongly recommended](https://www.upei.ca/covid-19-information). Disposable masks will be provided at the registration desk, as well as stickers to indicate your social distancing preferences. COVID rapid test kits will also be available at the registration desk and by request at any time.
 
 ## Getting to PEI
 
