@@ -1,6 +1,6 @@
 ---
 permalink: /conduct/
-title: "Code of Conduct Volunteers"
+title: "Conduct"
 layout: splash
 header:
   overlay_image: "../assets/images/Schedule-Banner.png"

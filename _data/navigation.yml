@@ -4,11 +4,13 @@ main:
     url: https://2022.islandora.ca/about/
   - title: Schedule
     url: https://2022.islandora.ca/schedule/
-  - title: Sponsors
-    url: https://2022.islandora.ca/sponsorship/
   - title: Speakers
     url: https://2022.islandora.ca/speakers/
+  - title: Sponsors
+    url: https://2022.islandora.ca/sponsorship/
   - title: Use-a-Thon
     url: https://2022.islandora.ca/use-a-thon/
   - title: Saturday
     url: https://2022.islandora.ca/saturday/
+  - title: Conduct
+    url: https://2022.islandora.ca/conduct/
