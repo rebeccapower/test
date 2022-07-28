@@ -35,7 +35,11 @@ The IslandoraCon Code of Conduct volunteers are a group of individuals supportin
 
 ## Help
 
-To report a violation of the Code of Conduct, reach out to one of the Code of Conduct Committee members or IslandoraCon CoC volunteers in person or on Slack, or email codeofconduct@islandora.ca. Only the Code of Conduct Committee members have access to this email address. CoC volunteers will be identifiable on Zoom with "[CoC]" in their handle.
+To report a violation of the Code of Conduct, you may choose any of the following options:
+
+* Reach out to one of the Code of Conduct Committee members or IslandoraCon CoC volunteers in person, or on Slack by searching their name. On-duty CoC volunteers will be identifiable on Zoom with "[CoC]" in their handle, and a purple heart status on Slack.
+* Email codeofconduct@islandora.ca. Only the Code of Conduct Committee members have access to this email address. 
+* Submit to our [Incident Report Form](https://forms.gle/wxqHXbcYaQ2TTQr47). Reports are received by the Code of Conduct Committee.
 
 Reports of violations will be received by CoC Committee members. You can expect an email acknowledgement of a report normally within 24 hours of receipt. Members of the CoC Committee will meet to determine from the report whether additional information should be gathered, and to decide on the basis of their information what, if any, actions will be taken. 
 
