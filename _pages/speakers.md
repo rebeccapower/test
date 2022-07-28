@@ -43,6 +43,10 @@ Chris Day is the Metadata Librarian at discoverygarden. Prior to starting this p
 Alan is an Islandora contractor who has been working with the stack since 2010 - the days of Drupal 6.  His contributions include many of 
 the original solution packs, work with Digital Humanities, a couple of microservices, and the multi-file Islandora model.
 
+## Danny Lamb
+
+Danny has over a decade of experience as a leader in the Islandora community. He started at Born-Digital in 2021 and works as their senior developer.  Previously he was with the Islandora Foundation, where he served as the Islandora Technical Lead. Prior to his role at the Islandora Foundation, Danny spent nearly four years at discoverygarden, Inc. Danny is a long-time committer to the Islandora 7.x-1.x project and the primary architect of Islandora 2.0. He is also an experienced presenter and Islandora Camp instructor.
+
 ## Mark Jordan
 
 Mark Jordan is Associate Dean of Libraries for Digital Strategy at Simon Fraser University, and a long-time contributor 
@@ -56,6 +60,10 @@ Yamil Suárez is the Associate Director of Library Systems & Web Development at 
 
 Janice Banser is the Digital & Web Services Librarian at Simon Fraser University (SFU) where she is part of a team responsible for the Library's digital collections hosted on Islandora 7. She is the project manager for the current SFU Institutional Repository (IR) migration and upgrade to Islandora 2.0 and for the upcoming migration and upgrade of the SFU Library's digital collections to Islandora 2.0. 
 
+## Amy Blau
+
+Amy Blau is the Scholarly Communications Librarian at Whitman College, where she manages the college repository, now migrated to Islandora 2.0. She currently serves as chair of the Islandora Coordinating Committee, representing the Islandora Collaboration Group. 
+
 ## Arran Griffith
 
 Arran Griffith is the Program Manager at Fedora. She is responsible for guiding the overall direction of the Fedora program and community 
@@ -64,7 +72,11 @@ originally started with Fedora in 2020 as the Community Engagement Coordinator a
 
 ## Paige Morfitt
 
-Paige (she/her) is the Digital Assets and Metadata librarian at Whitman College. Prior to that, she was a fresh-faced MLIS graduate working as a Library Assistant-Cataloger at Whitman. While working with MARC, she discovered the love of spreadsheets and cleaning messy metadata. She earned her MLIS at the University of Pittsburgh, and BA at Oregon State. Paige is also a co-convener for the Islandora Metadata Interest Group (MIG) which meets every other Monday. 
+Paige (she/her) is the Digital Assets and Metadata librarian at Whitman College. Prior to that, she was a fresh-faced MLIS graduate working as a Library Assistant-Cataloger at Whitman. While working with MARC, she discovered the love of spreadsheets and cleaning messy metadata. She earned her MLIS at the University of Pittsburgh, and BA at Oregon State. Paige is also a co-convener for the Islandora Metadata Interest Group (MIG) which meets every other Monday.
+
+## Alexander O'Neill
+
+Alexander is one of the original Islandora creators, and after using what he learned to pursue work in Silicon Valley in the academic publishing world, happily returned to UPEI and the Islandora community a few years ago. He has a bachelor’s degree in Computer Science and has remained interested in incorporating emerging technologies and best practices into open source software. He is also a pub trivia host and a big lay fan of history and political economy.
 
 ## Mirko Hanke
 
