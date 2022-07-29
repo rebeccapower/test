@@ -31,9 +31,31 @@ Please see the links below for some suggestions of what to see, eat, drink, and 
 
 * Discover Charlottetown: [Things to Do](https://www.discovercharlottetown.com/things-to-do/)
 
+* Trip Ideas from [Tourism PEI](https://www.tourismpei.com/trip-ideas)
+
+* Have a question? [Ask an Islander!](https://www.tourismpei.com/askanislander/questions)
+
 * [Green Gables Heritage Place](https://www.pc.gc.ca/en/lhn-nhs/pe/greengables)
 
 * [PEI Local Food Map](http://www.foodexchangepei.com/island-food-map.html)
 
-* [Winery, Cideries, and Breweries near Charlottetown](https://uploads.knightlab.com/storymapjs/38494d593d97599e435e13b48bd4ef82/islandoracon-adventure-1-beverage-discovery/index.html)
+
+Lighthouse Discovery Map
+
+<div>
+  <center>
+    <iframe src=“https://uploads.knightlab.com/storymapjs/38494d593d97599e435e13b48bd4ef82/islandoracon-plan-your-own-adventure-2-lighthouses/index.html” frameborder="0" width=“100%” height="800"></iframe>
+  </center>
+</div>
+
+
+Beverage Discovery Map
+
+<div>
+  <center>
+    <iframe src=“https://uploads.knightlab.com/storymapjs/38494d593d97599e435e13b48bd4ef82/islandoracon-adventure-1-beverage-discovery/index.html” frameborder="0" width=“100%” height="800"></iframe>
+  </center>
+</div>
+
+
 
