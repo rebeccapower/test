@@ -44,7 +44,7 @@ Lighthouse Discovery Map
 
 <div>
   <center>
-    <iframe src=“https://uploads.knightlab.com/storymapjs/38494d593d97599e435e13b48bd4ef82/islandoracon-plan-your-own-adventure-2-lighthouses/index.html” frameborder="0" width=“100%” height="800"></iframe>
+    <iframe src="https://uploads.knightlab.com/storymapjs/38494d593d97599e435e13b48bd4ef82/islandoracon-plan-your-own-adventure-2-lighthouses/index.html" frameborder="0" width="100%" height="800"></iframe>
   </center>
 </div>
 
@@ -53,7 +53,7 @@ Beverage Discovery Map
 
 <div>
   <center>
-    <iframe src=“https://uploads.knightlab.com/storymapjs/38494d593d97599e435e13b48bd4ef82/islandoracon-adventure-1-beverage-discovery/index.html” frameborder="0" width=“100%” height="800"></iframe>
+    <iframe src="https://uploads.knightlab.com/storymapjs/38494d593d97599e435e13b48bd4ef82/islandoracon-adventure-1-beverage-discovery/index.html" frameborder="0" width="100%" height="800"></iframe>
   </center>
 </div>
 
