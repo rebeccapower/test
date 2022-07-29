@@ -8,13 +8,17 @@ header:
   caption: "Photo: Martin Cathrae from Charlottetown, PE, Canada, CC BY-SA 2.0, via Wikimedia Commons"
 ---
 
-## August 2 - 5 - IslandoraCon Schedule
-
-IslandoraCon 2022: **Destination Mothership**
+## IslandoraCon 2022: **Destination Mothership**
 
 Both non-developer (ex. Librarian, Collection Administrator) and technical (ex. Developer, Systems Administrator) sessions are being offered, indicated where relevant by "Stream 1: Non-Technical" or "Stream 2: Technical" in the session title. 
 
+→ **Join Stream 1 (Non-Technical) [here](https://us02web.zoom.us/j/88928274134)**
+
+→ **Join Stream 2 (Technical) [here](https://us02web.zoom.us/j/89970868068)**
+
 The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert the start time on August 2, as well as any times you like [at this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IslandoraCon&iso=20220802T0930&p1=753). 
+
+## Schedule
 
 | Time  | Monday, August 1                                                                                                                 |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------|
