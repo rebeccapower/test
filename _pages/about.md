@@ -23,7 +23,7 @@ Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5t
 Faculty of Sustainable Design Engineering Building
 
 * Registration Desk will be located just outside 128A/B
-* Shared sessions will be in 128A
+* Shared sessions will be in 128B
 * User-focused sessions will take place in 128A
 * Developer-focused sessions will take place in 128B
 
