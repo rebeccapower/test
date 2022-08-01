@@ -27,7 +27,7 @@ The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert
 
 | Time  | Session(s) - Tuesday, August 2                                                                                                                 |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------|
-| 8:30  | Registration Desk open - Location TBA                                                                                                                           |
+| 8:30  | Registration Desk open <br>Located at the entrance of [FSDE](https://files.upei.ca/map.pdf)                                                                                                                           |
 | 9:30  | **Welcome Address** (Donald Moses) <br> **Introductions and Icebreakers**                                                                                                                           |
 | 10:30 | **Stream 1 (Non-Technical): [Islandora Workshop for Beginners](#islandora-workshop-for-beginners) pt. 1 <br>10:30-12:00**<br>Rosie LeFaive, Don Richards <br>FSDE 128A<br>_- presenting in person_ |
 |       | **Stream 2 (Technical): [Developing in Islandora](#developing-in-islandora) pt. 1 <br>10:30 - 12:00**<br>Seth Shaw, Nigel Banks <br>FSDE 128B<br>_- presenting in person_      |
