@@ -22,7 +22,7 @@ The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert
 
 | Time  | Monday, August 1                                                                                                                 |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------|
-| 2:30 - 4:30  | Registration Desk open - Location TBA                                                                                                                           |
+| 2:30 - 4:30  | Registration Desk open <br>Located at the entrance of [FSDE](https://files.upei.ca/map.pdf)                                                                                                                           |
 
 
 | Time  | Session(s) - Tuesday, August 2                                                                                                                 |
@@ -35,7 +35,7 @@ The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert
 | 1:00  | **Stream 1 (Non-Technical): [Islandora Workshop for Beginners](#islandora-workshop-for-beginners) pt. 2 <br>1:00 - 2:30**<br>Rosie LeFaive, Don Richards <br>FSDE 128A<br>_- presenting in person_     |
 |       | **Stream 2 (Technical): [Developing in Islandora](#developing-in-islandora) pt. 2 <br>1:00 - 2:30**<br>Seth Shaw, Nigel Banks <br>FSDE 128B<br>_- presenting in person_        |
 | 2:30  | **Afternoon Break**                                                                                                                   |
-| 3:00  | **Intro to Use-a-Thon Projects // Community Meetings**                                                                                 |
+| 3:00  | **Intro to Use-a-Thon Projects**                                                                                 |
 | 4:00  | **[Service Provider Showcase: Joe Corall, Sole Proprietor LibOps LLC](#service-provider-showcase-joe-corall-sole-proprietor-libops-llc)<br>4:00 - 5:00**<br>FSDE 128A<br>_- presenting virtually_                      |
 
 In person stream: **BBQ** (6:30), Location TBA
@@ -117,6 +117,9 @@ Description: Workshop for front-end users of Islandora. Will cover the basics of
 Speakers: Seth Shaw, Nigel Banks
 
 Description: This workshop will provide a broad overview of islandora architecture, debugging tips (where are things logged and what to look for), and where and how to contribute code changes.
+
+Resources:
+* [Example Project Repository](https://github.com/nigelgbanks/islandoracon2022)
 
 #### Service Provider Showcase: Joe Corall, Sole Proprietor LibOps LLC
 
