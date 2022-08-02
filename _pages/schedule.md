@@ -16,6 +16,8 @@ Both non-developer (ex. Librarian, Collection Administrator) and technical (ex. 
 
 → **Join Stream 2 (Technical) [here](https://us02web.zoom.us/j/89970868068)**
 
+The google drive containing shared materials and notes can be found [here](https://drive.google.com/drive/folders/149sdA-MEEIl-JqffzyAFQV27OhAxIRKJ?usp=sharing).
+
 The times listed below are provided in **Atlantic Daylight Time (ADT)**. Convert the start time on August 2, as well as any times you like [at this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=IslandoraCon&iso=20220802T0930&p1=753). 
 
 ## Schedule
@@ -123,6 +125,7 @@ Description: This workshop will provide a broad overview of islandora architectu
 
 Resources:
 * [Example Project Repository](https://github.com/nigelgbanks/islandoracon2022)
+* [Slides](https://docs.google.com/presentation/d/13gPnrV9oEjv_xkKOronJBrCw4Wqqlu44oENXiLe0NNs/edit?usp=sharing)
 
 #### Service Provider Showcase: Joe Corall, Sole Proprietor LibOps LLC
 
