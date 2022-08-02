@@ -110,6 +110,9 @@ Description: Workshop for front-end users of Islandora. Will cover the basics of
 * Managing derivatives
 * Accessing your content in Fedora and Blazegraph (Linked data!)
 
+Resources
+* [Slides](https://docs.google.com/presentation/d/1zlmHWBsTBxTfGFgCa0mxoQf17_xaKmBLpffTfFYWbm8/edit#slide=id.p)
+
 #### Developing in Islandora
 
 10:30 - 12:00 and 1:00 - 2:30
