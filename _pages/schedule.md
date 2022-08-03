@@ -78,7 +78,8 @@ In person stream: **Conference Dinner** (6:00 - 9:00) at [Lobster on the Wharf](
 
 |  Time | Session(s) - Friday, August 5                                                                                                                                            |
 |:-----:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 9:30  | **Welcome**                                                                                                                                                              |
+| 8:00  | **Use-a-Thon Breakfast**                                                                                                                                                              |
+| 9:45  | **Welcome**                                                                                                                                                              |
 | 10:30 | **Stream 1 (Non-Technical): [Managing Metadata for Migrations :](#managing-metadata-for-migrations-what-we-wrapped-up-at-whitman)<br>[What we wrapped up at Whitman](#managing-metadata-for-migrations-what-we-wrapped-up-at-whitman)<br>10:30 - 11:00**<br>Paige Morfitt <br>FSDE 128A<br>_- presenting in person_                         |
 |       | **Stream 2 (Technical): [Integrating machine learning-based](#integrating-machine-learning-based-image-entity-extraction-into-islandora)<br>image entity extraction into Islandora<br>10:30 - 11:00**<br>Alexander O'Neill<br>FSDE 128B<br>_- presenting in person_ |
 | 11:00 | **Stream 1: [The Next Generation: New Instances of Islandora](#the-next-generation-new-instances-of-islandora)<br>11:00 - 12:00**<br>Julia Corrin, Kathryn (Katie) Gucer, Seth Shaw <br>FSDE 128A<br>_- presenting in person_                |
