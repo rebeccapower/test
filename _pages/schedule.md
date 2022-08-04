@@ -69,7 +69,7 @@ In person stream: **Use-a-Thon Pizza Night** (6:30 - 9:30) at Robertson Library 
 | 1:00  | **Stream 1 (Non-Technical): [Metadata Management in Islandora](#metadata-management-in-islandora) <br>1:00 - 2:30**<br>Paige Morfitt _(presenting in person)_, Michelle Janowiecki _(presenting virtually)_<br>FSDE 128A                                  |
 |       | **Stream 2 (Technical): [Microservices and content processing](#microservices-and-content-processing) <br>1:00 - 2:30**<br>Alan Stanley, Kyle Hyunh <br>FSDE 128B<br>_- presenting in person_                            |
 | 2:30  | **Afternoon Break**                                                                                                                                               |
-| 3:00  | **Stream 1: [Annual General Meeting](#annual-general-meeting)<br>3:00 - 5:00**<br>FSDE 128A                                                                                                                         |
+| 3:00  | **[Zoom Link](https://us02web.zoom.us/j/85136204808?pwd=Zm1HdUNnS2J3Zjk3bGRFNEk0ckJLdz09): [Annual General Meeting](#annual-general-meeting)<br>3:00 - 5:00**<br>FSDE 128A                                                                                                                         |
 
 In person stream: **Conference Dinner** (6:00 - 9:00) at [Lobster on the Wharf](https://www.lobsteronthewharf.com)
 
@@ -313,7 +313,7 @@ Description: In 2020, the Library of Congress announced the Newspaper Navigator 
 
 Speakers: Julia Corrin, Kathryn (Katie) Gucer, Seth Shaw
 
-Description: Since Islandora was released in June 2019 – and especially in the last year – new fully developed instances of this uniquely flexible and sustainable open source digital asset management system have emerged on the public web. The latter include [Carnegie Mellon University’s Digital Collections](digitalcollections.library.cmu.edu), [Johns Hopkins University’s Hopkins Digital Library](digital.library.jhu.edu), and the [UNLV Special Collections and Archives Portal](special.library.unlv.edu). The three presenters from these institutions will each introduce their new instance of Islandora with an eye toward the technical, sociotechnical, and organizational issues of particular interest to the Islandora community gathered IslandoraCon 2022. 
+Description: Since Islandora was released in June 2019 – and especially in the last year – new fully developed instances of this uniquely flexible and sustainable open source digital asset management system have emerged on the public web. The latter include [Carnegie Mellon University’s Digital Collections](https://digitalcollections.library.cmu.edu), [Johns Hopkins University’s Hopkins Digital Library](https://digital.library.jhu.edu), and the [UNLV Special Collections and Archives Portal](https://special.library.unlv.edu). The three presenters from these institutions will each introduce their new instance of Islandora with an eye toward the technical, sociotechnical, and organizational issues of particular interest to the Islandora community gathered IslandoraCon 2022. 
 
 #### Using Islandora to implement your preservation plan
 
