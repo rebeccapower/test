@@ -88,7 +88,7 @@ In person stream: **Conference Dinner** (6:00 - 9:00) at [Lobster on the Wharf](
 | 2:30  | **Afternoon Break**                                                                                                                                                      |
 | 3:00  | **Stream 2 (Technical): [AWS and Islandora](#aws-and-islandora)<br>3:00 - 3:30**<br>Luke Taylor <br>FSDE 128A<br>_- presenting in person_                                                       |
 | 3:30  | **Stream 1: Service Provider Showcase: [Discoverygarden](#service-provider-showcase-discoverygarden)<br>3:30 - 4:00**<br>Morgan Dawe <br>FSDE 128A<br>_- presenting in person_                                                |
-| 4:00  | **Stream 1: Use-a-Thon Presentations and Farewells/Closing Address**                                                                                                                                |
+| 4:00  | **Stream 1: Use-a-Thon Presentations and Farewells/Closing Address** <br>FSDE 128A                                                                                                                              |
 
 
 ## Saturday 
