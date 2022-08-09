@@ -10,11 +10,22 @@ header:
   caption: "Photo: rokker, CC BY 3.0, via Wikimedia Commons"
 ---
 
-## Register now for IslandoraCon!
+## IslandoraCon 2022
 
-Registration has opened for IslandoraCon 2022, taking place this **August 2 - 5th, 2022** in beautiful Charlottetown PEI, as well as streaming on Zoom for remote attendees. View the schedule for IslandoraCon [here](https://2022.islandora.ca/schedule/).
+**IslandoraCon 2022 is a wrap!** Thank you to all those who joined us for our first hybrid conference, bringing your interest, creativity, and passion for open-source software to the birthplace of Islandora. Recorded presentations from IslandoraCon will be uploaded in the coming weeks, and the slides of presentations are linked from [the ‘Schedule’ page.](https://2022.islandora.ca/schedule/)
 
-→ Register [**here**](https://www.eventbrite.ca/e/islandoracon-2022-virtual-tickets-317680469837) to attend **virtually**.
+Warm thanks to all our presenters, and our sponsors: [Born-Digital](https://www.born-digital.com/), [UPEI](https://www.upei.ca/), and [Discoverygarden](https://www.discoverygarden.ca/). Thank you Pauline MacPherson, all who participated in the Use-a-Thon, and of course our program committee: Rosie Le Faive, Julia Corrin, Lina Crowe, Katie Gucer, Chris Day, Jordan Dukart, and Don Richards. Thanks also to Isabella Nikoladis, our 2022 Islandora Intern. If you have pictures to share from your time on the Island, feel free to add them to [our public folder.](https://drive.google.com/drive/folders/1RyprL38xem7jmPyBw991UHHwo7wZLdSl?usp=sharing) Please also share your feedback on the conference with us [here](https://forms.gle/CJdMNkmGYoeixv7L7).
+
+Congratulations to our remote attendees Stephen Szanati, Emily Wahl, Simonne Jackson, Arran Griffith, and in-person attendees Johanna Vessey, Francesca Baird, Dara Virks, and Beatrice Pulliam, who were the winners of our daily draw for a PEI-made item.
+
+We are very happy to see a return to events that give us a chance to connect and share our work, connections that have helped make our community strong. Looking forward to seeing you at the next one.
+
+Best,
+
+Donald Moses <br>
+University Librarian, UPEI <br>
+IslandoraCon Program Chair <br>
+Islandora Foundation Board Vice Chair
 
 ## IslandoraCon Scholarship Awardees
 
